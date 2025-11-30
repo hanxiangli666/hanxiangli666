@@ -51,7 +51,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue"/>
   <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/hanxiangli666/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
 </p>
 
 ## 📊 GitHub Stats
