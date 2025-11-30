@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Hanxiang(James) Li**
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=1100&lines=Computer+Science+Sophomore+@+Drew+University;Software+Engineering+Freshman+@+South+China+Normal+University;AI+%7C+PyTorch+%7C+Chess+Engine+Dev;Basketball+Manager+%26+Tech+Enthusiast">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=1100&lines=Computer+Science+Sophomore+@+Drew+University;Software+Engineering+Freshman+@+South+China+Normal+University;Computer+Science+@+Columbia+University;AI+%7C+PyTorch+%7C+Chess+Engine+Dev;Basketball+Manager+%26+Tech+Enthusiast">
 </p>
 
 ---
@@ -54,6 +54,7 @@
   <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
   <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
 </p>
+
 
 ## 📊 GitHub Stats
 <div align="center">
