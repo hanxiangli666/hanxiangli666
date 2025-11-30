@@ -47,6 +47,13 @@
 
 ---
 
+### 🏆 Coding Profiles & Stats
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue"/>
+  <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/hanxiangli666/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+</p>
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanxiangli666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" />
