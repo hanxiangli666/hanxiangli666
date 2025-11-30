@@ -51,10 +51,13 @@
 ## 🏆 Coding Profiles & Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue"/>
+  
   <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
-  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+  
+  <a href="https://leetcode.com/u/hanxiangli666/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+  
+  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1"><img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg" alt="Total time coded since start" /></a>
 </p>
-
 
 ## 📊 GitHub Stats
 <div align="center">
