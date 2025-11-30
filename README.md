@@ -12,7 +12,6 @@
 - 🌎 **Live in:** Madison, New Jersey, USA | Shenzhen, Guangdong, China
 - 📚 **Spoken Language:** English, Chinese, Japanese, Spanish
 
----
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanxiang-li-0b6590396/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanxiangli666@gmail.com)
@@ -20,7 +19,9 @@
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hanxiangli666/hanxiangli666/blob/main/wechat.jpg)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hanxiang_l31110)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61584190033952)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HanxiangLi-k1h)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HanxiangLi-k1h)
+
+---
 ## 🛠 Tech Stack(Click to Download)
 <p align="left">
   <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
@@ -47,7 +48,7 @@
 
 ---
 
-### 🏆 Coding Profiles & Stats
+## 🏆 Coding Profiles & Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue"/>
   <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
@@ -63,15 +64,6 @@
   <br>
   <img src="https://github-profile-trophy.vercel.app/?username=hanxiangli666&theme=onedark&no-frame=true&margin-w=15" />
 </div>
----
-
-## 💻 Featured Projects
-### ♟️ AI Chess Engine
-- **Description:** A custom chess engine built from scratch.
-- **Tech:** Python, PyTorch, Minimax Algorithm.
-- **Role:** Lead Designer & ML Engineer.
-- **Description:** Analysis of player efficiency using computer vision.
-- **Tech:** OpenCV, Pandas, YOLO.
 
 ---
 
@@ -83,4 +75,14 @@
     <img alt="github contribution grid snake animation" src="https://github.com/hanxiangli666/hanxiangli666/raw/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+---
+
+## 💻 Featured Projects
+### ♟️ AI Chess Engine
+- **Description:** A custom chess engine built from scratch.
+- **Tech:** Python, PyTorch, Minimax Algorithm.
+- **Role:** Lead Designer & ML Engineer.
+- **Description:** Analysis of player efficiency using computer vision.
+- **Tech:** OpenCV, Pandas, YOLO.
 
