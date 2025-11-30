@@ -1,7 +1,4 @@
 <!-- Header -->
-<p align="center">
-  <img src="https://github.com/hanxiangli666/hanxiangli666/blob/main/image_13.png?raw=true" alt="Hanxiang's Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
-</p>
   <h1 align="center">👋 Hey! I'm Hanxiang(James) Li</h1>
 </p>
 
