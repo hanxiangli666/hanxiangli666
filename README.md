@@ -79,10 +79,17 @@
 ---
 
 ## 💻 Featured Projects
-### ♟️ AI Chess Engine
-- **Description:** A custom chess engine built from scratch.
-- **Tech:** Python, PyTorch, Minimax Algorithm.
-- **Role:** Lead Designer & ML Engineer.
-- **Description:** Analysis of player efficiency using computer vision.
-- **Tech:** OpenCV, Pandas, YOLO.
 
+| Project | Description | Tech Stack | Code |
+| :--- | :--- | :--- | :---: |
+| **♟️ Smart Chess Engine** | **[Flagship]** A custom chess engine built from scratch using Minimax & Deep Learning. | `PyTorch` `Python` `Minimax` | [View](https://github.com/hanxiangli666/07_SmartChessEngine) |
+| **🧠 Micrograd (Karpathy)** | Following Andrej Karpathy to build a scalar-valued Autograd engine & neural net. | `Python` `Autograd` `Math` | [View](https://github.com/hanxiangli666/01_Andrej) |
+| **📹 AI YouTube Timestamps** | Automated video summarization and timestamp generation tool using AI agents. | `OpenAI API` `Whisper` `Python` | [View](https://github.com/hanxiangli666/11_AI-YouTube-Timestamps) |
+| **🔐 Federated Learning** | Research implementation of privacy-preserving decentralized Machine Learning. | `PyTorch` `FederatedAvg` `Python` | [View](https://github.com/hanxiangli666/04_Federated_Learning) |
+| **📝 CAG Replication** | Reproduction of state-of-the-art AI research papers (CAG). | `Deep Learning` `PyTorch` `Paper` | [View](https://github.com/hanxiangli666/02_CAG_Replication) |
+| **📐 MCM Modeling** | Mathematical Contest in Modeling solutions and data analysis algorithms. | `MATLAB` `Pandas` `SciPy` | [View](https://github.com/hanxiangli666/09_Mathematical_Contest_for_Modeling) |
+| **🕸️ Graph Theory** | Implementation of complex network algorithms and pathfinding strategies. | `NetworkX` `Python` `Algorithms` | [View](https://github.com/hanxiangli666/05_Graph_Theory) |
+| **⚙️ Backend App** | robust backend application development with API design. | `FastAPI` `SQL` `Docker` | [View](https://github.com/hanxiangli666/10_BackEndApp) |
+| **🌙 Nocturne AI** | Experimental AI project for creative or specialized agent tasks. | `AI Agents` `Python` | [View](https://github.com/hanxiangli666/12_Nocturne_AI) |
+| **🧪 Summer Research** | Academic research project involving data processing and model training. | `Data Science` `Research` | [View](https://github.com/hanxiangli666/08_Summer_Research) |
+| **📚 PyTorch Learning** | My journey and notes on learning Deep Learning with PyTorch. | `PyTorch` `Jupyter` | [View](https://github.com/hanxiangli666/06_PyTorch_Learning) |
