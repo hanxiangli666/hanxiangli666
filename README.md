@@ -61,9 +61,11 @@ Welcome to my space! I'm a developer with a bit of an obsession for making thing
   
   <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
   
-  <a href="https://leetcode.com/u/hanxiangli666/"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.cn/u/hanxiangli666/">
+    <img src="https://img.shields.io/badge/LeetCode_CN-FFA116?logo=leetcode&logoColor=black" />
+  </a>
   
-  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1"><img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg" alt="Total time coded since start" /></a>
+  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1"><img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg?v=1" alt="Total time coded since start" /></a>
 </p>
 
 ## 📊 GitHub Stats
