@@ -61,7 +61,7 @@ Welcome to my space! I'm a developer with a bit of an obsession for making thing
   
   <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
   
-  <a href="https://leetcode.cn/u/hanxiangli666/">
+  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/">
     <img src="https://img.shields.io/badge/LeetCode_CN-FFA116?logo=leetcode&logoColor=black" />
   </a>
   
