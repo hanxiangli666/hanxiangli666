@@ -1,0 +1,26 @@
+# --- Python 基础 ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- 虚拟环境 (根据你自己的命名习惯保留一个即可) ---
+venv/
+.venv/
+env/
+
+# --- IDE 设置 ---
+.idea/
+.vscode/
+*.swp
+
+# --- 操作系统 ---
+.DS_Store
+Thumbs.db
+
+# --- 环境变量与敏感信息 ---
+.env
+.env.local
+
+# --- 数据科学与AI常用 ---
+.ipynb_checkpoints/
+*.log
