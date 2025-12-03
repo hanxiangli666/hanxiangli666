@@ -96,7 +96,7 @@ Welcome to my space! I'm a developer with a bit of an obsession for making thing
 | Project | Description | Tech Stack | Code |
 | :--- | :--- | :--- | :---: |
 | **♟️ Smart Chess Engine** | **[Flagship]** A custom chess engine built from scratch using Minimax & Deep Learning. | `PyTorch` `Python` `Minimax` | [View](https://github.com/hanxiangli666/07_SmartChessEngine) |
-| **🧠 Micrograd (Karpathy)** | Following Andrej Karpathy to build a scalar-valued Autograd engine & neural net. | `Python` `Autograd` `Math` | [View](https://github.com/hanxiangli666/01_Andrej) |
+| **🧠 Micrograd (Karpathy)** | Following Andrej Karpathy to build a scalar-valued Autograd engine & neural net. | `Python` `Autograd` `Math` | [View](https://github.com/hanxiangli666/01_MicroGrad) |
 | **📹 AI YouTube Timestamps** | Automated video summarization and timestamp generation tool using AI agents. | `OpenAI API` `Whisper` `Python` | [View](https://github.com/hanxiangli666/11_AI-YouTube-Timestamps) |
 | **🔐 Federated Learning** | Research implementation of privacy-preserving decentralized Machine Learning. | `PyTorch` `FederatedAvg` `Python` | [View](https://github.com/hanxiangli666/04_Federated_Learning) |
 | **📝 CAG Replication** | Reproduction of state-of-the-art AI research papers (CAG). | `Deep Learning` `PyTorch` `Paper` | [View](https://github.com/hanxiangli666/02_CAG_Replication) |
