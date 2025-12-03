@@ -7,7 +7,7 @@
 
 ## 第一部分：建立连接 (Initialize & Connect)
 
-**场景**：本地已有一个项目文件夹（例如 `12_Nocturne_AI`），需要将其上传到 GitHub 上新建的空仓库。
+**场景**：本地已有一个项目文件夹（例如 `12_Nocturne_AI`），需要将其上传到 GitHub 上新建的空仓库(注意:要同时在github上面建好一个空仓库)。
 
 ### 方式 A：终端命令行 (Terminal) —— *最稳定、推荐*
 
@@ -66,7 +66,7 @@
    ```
 4. **推送 (Push)** 到云端：
    ```bash
-   git push
+   git push origin main
    ```
 
 ### 方式 B：VS Code 图形界面
@@ -91,7 +91,7 @@ Git 会自动识别重命名操作，无需特殊命令，操作流程与普通�
    ```bash
    git add .
    git commit -m "Renamed files"
-   git push
+   git push origin main
    ```
 
 ### 方式 B：VS Code 图形界面
@@ -105,7 +105,45 @@ Git 会自动识别重命名操作，无需特殊命令，操作流程与普通�
 5. **推送**：点击 **"Sync Changes"**。
 
 ---
+## 第四部分: 导入别人的仓库进行学习
+**关联了一个远程仓库**
+我们需要把它的“发货地址”改成**你自己**的 GitHub 仓库。请按照以下步骤操作：
 
+### 第一步：在 GitHub 上新建空仓库
+
+1.  去 GitHub 网站，点击右上角 **+** -\> **New repository**。
+2.  仓库名输入：**`micrograd`**。
+3.  **不要**勾选 Initialize with README/.gitignore（因为你本地已经有了）。
+4.  点击 **Create repository**。
+
+### 第二步：修改“发货地址” (在 VS Code 终端输入)
+
+请依次运行以下 3 条命令：
+
+1.  **删除旧的关联** (断开与原作者仓库的连接)：
+
+    ```powershell
+    git remote remove origin
+    ```
+
+2.  **添加新的关联** (连到你的新仓库)：
+    *(请把下面的链接换成你刚才新建的仓库链接)*
+
+    ```powershell
+    git remote add origin https://github.com/hanxiangli666/你的仓库名.git
+    ```
+
+3.  **改名并推送** (把 master 改为 main 并上传)：
+
+    ```powershell
+    git branch -M main
+    git push -u origin main
+    ```
+
+-----
+
+### 🎉 预期结果
+刷新你的 GitHub 页面，你会发现代码都在里面了。然后你就可以去你的**个人主页 README**，把项目表格里的 Micrograd 链接更新为这个新仓库的链接了！
 ## 附录：常用建议
 
 * **什么时候用 GUI？**
@@ -114,3 +152,4 @@ Git 会自动识别重命名操作，无需特殊命令，操作流程与普通�
   适合第一次配置环境、解决冲突、或者 GUI 报错无法处理时。
 * **重要提醒**：
   修改文件名时，如果只是修改了大小写（如 `api.py` -\> `API.py`），Windows 系统可能无法识别。建议先改为临时名字（如 `temp.py`）提交一次，再改为最终名字 `API.py` 提交第二次。
+
