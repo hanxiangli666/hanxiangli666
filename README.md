@@ -4,7 +4,7 @@
 
 <!-- About Me Section -->
 <p align="center">
-Welcome to my space! I'm a developer with a bit of an obsession for making things that push the limits, whether it's with AI, automation, or decentralized networks. I’ve been building and exploring tech for over 2 years, diving into everything from encrypted chats to VR worlds. My toolbelt is mostly Python, JavaScript, and whatever else fits the job.
+Welcome to my space! I'm a learner and developer with an obsession for making creative things that push the limits, whether it's with AI, automation, or decentralized networks. I’ve been building and exploring tech for over 4 years, diving into everything from data structures, algorithms to machine learning. My toolbelt is mostly Python, JavaScript, and whatever else fits the job.
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=1100&lines=Computer+Science+Sophomore+@+Drew+University;Software+Engineering+Freshman+@+South+China+Normal+University;Computer+Science+@+Columbia+University;AI+%7C+PyTorch+%7C+Chess+Engine+Dev;Basketball+Manager+%26+Tech+Enthusiast">
