@@ -14,7 +14,7 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 ## 🚀 About Me
 - 🎓 **Education:** Sophomore at **Drew University**, Majoring in Computer Science.
 - 🤖 **Focus:** Mathmatics, Machine Learning, Large Language Models.
-- 🔭 **Currently working on:** A **Chess Engine** using AI & Machine Learning.
+- 🔭 **Currently working on:**  **NotebookLM**.
 - 🏀 **Interests:** Basketball (Former Captain), **MBTI (INFJ)**, and Chess.
 - 🌎 **Live in:** Madison, New Jersey, USA | Shenzhen, Guangdong, China
 - 📚 **Spoken Language:** English, Chinese, Japanese, Spanish
