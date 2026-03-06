@@ -78,9 +78,6 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 
 | Project | Description | Tech Stack | Code |
 | :--- | :--- | :--- | :---: |
-| **📹 AI YouTube Timestamps** | Automated video summarization and timestamp generation tool using AI agents. | `OpenAI API` `Whisper` `Python` | [View](https://github.com/hanxiangli666/AI-YouTube-Timestamps) |
 | **🔐 Federated Learning** | Research implementation of privacy-preserving decentralized Machine Learning. | `PyTorch` `FederatedAvg` `Python` | [View](https://github.com/hanxiangli666/Federated-Learning) |
 | **📐 MCM/ICM Modeling** | Mathematical Contest in Modeling solutions and data analysis algorithms. | `MATLAB` `Pandas` `SciPy` | [View](https://github.com/hanxiangli666/MCM-ICM) |
-| **🕸️ Graph Theory** | Implementation of complex network algorithms and pathfinding strategies. | `NetworkX` `Python` `Algorithms` | [View](https://github.com/hanxiangli666/Graph_Theory) |
 | **🌙 Nocturne AI** | Experimental AI project for creative or specialized agent tasks. | `AI Agents` `Python` | [View](https://github.com/hanxiangli666/Omni-AI-Learning-Assistant) |
-| **🧪 NotebookLM** | Academic research project involving RAG and model training. | `Data Science` `Research` | [View](https://github.com/hanxiangli666/LangChainfromScratch) |
