@@ -78,6 +78,6 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 
 | Project | Description | Tech Stack | Code |
 | :--- | :--- | :--- | :---: |
-| **🔐 Federated Learning** | Research implementation of privacy-preserving decentralized Machine Learning. | `PyTorch` `FederatedAvg` `Python` | [View](https://github.com/hanxiangli666/Federated-Learning) |
-| **📐 MCM/ICM Modeling** | Mathematical Contest in Modeling solutions and data analysis algorithms. | `MATLAB` `Pandas` `SciPy` | [View](https://github.com/hanxiangli666/MCM-ICM) |
-| **🌙 Nocturne AI** | Experimental AI project for creative or specialized agent tasks. | `AI Agents` `Python` | [View](https://github.com/hanxiangli666/Nocturne_AI) |
+| **Federated Learning** | Research implementation of privacy-preserving decentralized Machine Learning. | `PyTorch` `FederatedAvg` `Python` | [View](https://github.com/hanxiangli666/Federated-Learning) |
+| **MCM/ICM Modeling** | Mathematical Contest in Modeling solutions and data analysis algorithms. | `MATLAB` `Pandas` `SciPy` | [View](https://github.com/hanxiangli666/MCM-ICM) |
+| **Nocturne AI** | Experimental AI project for creative or specialized agent tasks. | `AI Agents` `Python` | [View](https://github.com/hanxiangli666/Nocturne_AI)|
