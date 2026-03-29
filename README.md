@@ -92,7 +92,6 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 ---
 
 ## 💻 Featured Projects
-
 | Project | Description | Tech Stack | Code |
 | :--- | :--- | :--- | :---: |
 | **ML-SelfLearning** | Self-directed machine learning study notes and implementations, covering core ML algorithms and deep learning fundamentals from scratch. | `Jupyter Notebook` `Python` `PyTorch` | [View](https://github.com/hanxiangli666/ML-SelfLearning) |
@@ -103,3 +102,5 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 | **Replication-of-Papers** | Reproducing key results from influential ML/AI research papers to deepen understanding of state-of-the-art methods. | `Python` `PyTorch` | [View](https://github.com/hanxiangli666/Replication-of-Papers) |
 | **Kaggle** | Collection of Kaggle competition notebooks and exploratory data analysis projects for hands-on data science practice. | `Jupyter Notebook` `Python` | [View](https://github.com/hanxiangli666/Kaggle) |
 | **Nocturne AI** | Experimental AI project exploring creative and specialized agent tasks. | `Python` `AI Agents` | [View](https://github.com/hanxiangli666/Nocturne_AI) |
+| **IT-Foundations** | Structured self-study notes spanning core IT domains: Cloud Computing, Computer Architecture, Database Fundamentals, Networking, Operating Systems, and Virtualization & Containers. | `Markdown` `Cloud` `Networking` `OS` | [View](https://github.com/hanxiangli666/IT_Foundatitions) |
+| **Linux** | Hands-on Linux learning repository covering system administration (LFCSA prep), Linux basics, and shell scripting for beginners. | `Bash` `Shell Scripting` `Linux` | [View](https://github.com/hanxiangli666/Linux) |
