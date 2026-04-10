@@ -68,19 +68,26 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 
 ## 🏆 Coding Profiles & Stats
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue"/>
-  
-  <a href="https://www.kaggle.com/hanxiangli666"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" /></a>
-  
-  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/">
-    <img src="https://img.shields.io/badge/LeetCode_CN-FFA116?logo=leetcode&logoColor=black" />
+  <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue" />
+
+  <!-- Kaggle（已统一风格） -->
+  <a href="https://www.kaggle.com/hanxiangli666">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 
-  <a href="https://www.luogu.com.cn/user/2121025/practice">
-    <img src="https://img.shields.io/badge/洛谷-3498DB?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNCIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IndoaXRlIj7mtL48L3RleHQ+PC9zdmc+&logoColor=white" />
+  <!-- LeetCode（保持不变） -->
+  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/">
+    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
-  
-  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1"><img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg?v=1" alt="Total time coded since start" /></a>
+
+  <!-- 洛谷（已统一风格） -->
+  <a href="https://www.luogu.com.cn/user/2121025/practice">
+    <img src="https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white" alt="洛谷"/>
+  </a>
+
+  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1">
+    <img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg?v=1" alt="Total time coded since start" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
