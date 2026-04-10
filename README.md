@@ -12,6 +12,30 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 
 ---
 
+## 🏆 Coding Profiles & Stats
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue" />
+
+  <!-- Kaggle（已统一风格） -->
+  <a href="https://www.kaggle.com/hanxiangli666">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+
+  <!-- LeetCode（保持不变） -->
+  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/">
+    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
+  </a>
+
+  <!-- 洛谷（已统一风格） -->
+  <a href="https://www.luogu.com.cn/user/2121025/practice">
+    <img src="https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white" alt="洛谷"/>
+  </a>
+
+  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1">
+    <img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg?v=1" alt="Total time coded since start" />
+  </a>
+</p>
+
 ## 🚀 About Me
 - 🎓 **Education:** Sophomore at **Drew University**, B.S. Engineering Dual Degree (Drew + Columbia) in Computer Science.
 - 🤖 **Focus:** Mathematics, Machine Learning, Large Language Models.
@@ -65,30 +89,6 @@ Welcome to my space! I'm a learner and developer with an obsession for making cr
 </p>
 
 ---
-
-## 🏆 Coding Profiles & Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue" />
-
-  <!-- Kaggle（已统一风格） -->
-  <a href="https://www.kaggle.com/hanxiangli666">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-
-  <!-- LeetCode（保持不变） -->
-  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/">
-    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
-  </a>
-
-  <!-- 洛谷（已统一风格） -->
-  <a href="https://www.luogu.com.cn/user/2121025/practice">
-    <img src="https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white" alt="洛谷"/>
-  </a>
-
-  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1">
-    <img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg?v=1" alt="Total time coded since start" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats
 
