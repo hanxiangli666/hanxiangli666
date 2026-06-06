@@ -9,7 +9,7 @@ I care about turning technical ideas into usable systems: AI assistants, RAG wor
 | Area | What I build | Evidence style |
 | --- | --- | --- |
 | AI Products | RAG tools, AI coaching, interview training, repo analysis, learning assistants | Working apps, architecture notes, model pipelines, tests |
-| Full-Stack Systems | Vue/React frontends, FastAPI APIs, Cloudflare/Supabase/Render deployments | Live links, routes, schemas, workers, auth, billing |
+| Full-Stack Systems | Vue/React frontends, FastAPI APIs, Cloudflare/Supabase/Render deployments | Routes, schemas, workers, auth, billing, deployment notes |
 | Applied ML / Research | Paper replication, Kaggle, medical KBQA, federated learning, algorithms | Notebooks, datasets, metrics, SHAP plots, technical writeups |
 
 ## Links
@@ -20,9 +20,9 @@ I care about turning technical ideas into usable systems: AI assistants, RAG wor
 
 | Project | Problem | What I built | Stack | Evidence | Status |
 | --- | --- | --- | --- | --- | --- |
-| **WhyThisMove / IronWall Chess Engine** | Chess tools usually show what to play, not why a move matters. | A paid AI chess coaching platform with Stockfish analysis, Maia human-move prediction, LLM explanations, opening trainer, blunder training, game analysis, and LLM battle mode. | React 19, Vite, TypeScript, Mantine, Tailwind, Zustand, TanStack Query, FastAPI, PostgreSQL, ClickHouse, Stockfish, Maia, OpenRouter, Docker Compose, Caddy/nginx, Vitest | [Live site](https://why-this-move.com), private code case study | Private repo, public product |
-| **Basketball Team Manager** | Coaches need fast practice, roster, injury, and game-rotation tools without spreadsheet friction. | A production Drew basketball operations app with practice stats, game clock/rotation flow, admin roster review, injuries, PDF practice reports, D1 persistence, and scheduled roster sync. | Vue 3, Vite, Tailwind, Cloudflare Pages Functions, Cloudflare D1, Worker Cron, Node test runner | [Repo](https://github.com/hanxiangli666/Basketball-Team-Manager), [Live domain](https://drew-mbb.com) | Public |
-| **Citely** | Students and researchers need to find real sources and detect weak or fake AI-generated citations. | A citation verification and source-finding product with public tools, logged-in workspaces, PDF ingestion, citation matching, RAG chat, credit usage, and Stripe billing. | Vue 3, TypeScript, FastAPI, Supabase Auth/Postgres/Storage/RLS/pgvector, OpenAI Responses API, Semantic Scholar, OpenAlex, Crossref, PubMed, arXiv, PyMuPDF, Stripe, Netlify, Render, pytest | [Live site](https://citely-ai-rag.netlify.app), private code case study | Private repo, public product |
+| **WhyThisMove / IronWall Chess Engine** | Chess tools usually show what to play, not why a move matters. | A paid AI chess coaching platform with Stockfish analysis, Maia human-move prediction, LLM explanations, opening trainer, blunder training, game analysis, and LLM battle mode. | React 19, Vite, TypeScript, Mantine, Tailwind, Zustand, TanStack Query, FastAPI, PostgreSQL, ClickHouse, Stockfish, Maia, OpenRouter, Docker Compose, Caddy/nginx, Vitest | Private code case study | Private repo, testing |
+| **Basketball Team Manager** | Coaches need fast practice, roster, injury, and game-rotation tools without spreadsheet friction. | A production Drew basketball operations app with practice stats, game clock/rotation flow, admin roster review, injuries, PDF practice reports, D1 persistence, and scheduled roster sync. | Vue 3, Vite, Tailwind, Cloudflare Pages Functions, Cloudflare D1, Worker Cron, Node test runner | [Repo](https://github.com/hanxiangli666/Basketball-Team-Manager) | Public |
+| **Citely** | Students and researchers need to find real sources and detect weak or fake AI-generated citations. | A citation verification and source-finding product with public tools, logged-in workspaces, PDF ingestion, citation matching, RAG chat, credit usage, and Stripe billing. | Vue 3, TypeScript, FastAPI, Supabase Auth/Postgres/Storage/RLS/pgvector, OpenAI Responses API, Semantic Scholar, OpenAlex, Crossref, PubMed, arXiv, PyMuPDF, Stripe, Netlify, Render, pytest | Private code case study | Private repo, testing |
 | **Zhimian** | Job seekers need realistic interview practice with feedback, emotion signals, and enterprise workflows. | An AI interview platform with WebSocket interview flow, emotion analysis, site chatbot, RBAC admin console, payment-proof review, enterprise verification, question bank, and community operations. | TypeScript frontend, FastAPI, SQLAlchemy, Alembic, WebSocket, RAG service, RBAC, pytest | Private repo case study | Private |
 | **Project Helper** | Developers need a safe way to understand unfamiliar GitHub repositories quickly. | A repo-analysis SaaS prototype that shallow-clones public repos, streams analysis progress, creates Markdown/HTML reports, renders Mermaid diagrams, and supports safe file/search Q&A. | FastAPI, Vue 3, TypeScript, Vite, SQLite/Supabase, SSE, Markdown export, Mermaid | Private repo case study | Private |
 | **Medical KBQA** | Medical question answering needs structured domain knowledge, not only free-text generation. | A medical knowledge-graph QA system linking NER, BERT intent recognition, BiLSTM-CRF slot filling, semantic parsing, Cypher templates, Neo4j, Flask services, and Streamlit UI. | Python, BERT, BiLSTM-CRF, Neo4j, Cypher, Flask, Streamlit | Private repo case study | Private |
@@ -44,7 +44,7 @@ I care about turning technical ideas into usable systems: AI assistants, RAG wor
 
 **Data / research / ML:** Kaggle workflows, scikit-learn, XGBoost, random forests, SVM, MLP, SHAP, EIS feature extraction, battery SOH prediction, medical NER, BERT intent classification, BiLSTM-CRF, Neo4j, Cypher.
 
-**Testing and delivery:** Node test runner, Vitest, Testing Library, pytest, API route tests, build checks, deployment configs, migration files, public live domains.
+**Testing and delivery:** Node test runner, Vitest, Testing Library, pytest, API route tests, build checks, deployment configs, migration files, private testing deployments.
 
 ## Research And Learning Track
 
