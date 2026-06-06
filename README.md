@@ -1,99 +1,58 @@
-<!-- Header -->
-  <h1 align="center">👋 Hey! I'm Hanxiang(James) Li</h1>
-</p>
+# Hanxiang "James" Li
 
-<!-- About Me Section -->
-<p align="center">
-Welcome to my space! I'm a learner and developer with an obsession for making creative things that push the limits, whether it's with AI, automation, or decentralized networks. I've been building and exploring tech for over 4 years, diving into everything from data structures, algorithms to machine learning. My toolbelt is mostly Python, Java, and whatever else fits the job.
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00A5FF&center=true&vCenter=true&width=1100&lines=Computer+Science+Sophomore+@+Drew+University;B.S.+Engineering+Dual+Degree+@+Drew+%2B+Columbia;AI+%7C+PyTorch+%7C+Full-Stack+Dev;Basketball+Manager+%26+Tech+Enthusiast">
-</p>
+**AI Product Engineer / Computer Science student building applied AI products, full-stack systems, and research-oriented ML projects.**
 
----
+I care about turning technical ideas into usable systems: AI assistants, RAG workflows, sports operations tools, citation verification, interview training, and domain-specific knowledge systems. My GitHub is organized as a long-term evidence trail for what I can design, build, test, deploy, and explain.
 
-## 🏆 Coding Profiles & Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=hanxiangli666&label=Profile+Views&color=blue" />
+## Focus
 
-  <!-- Kaggle（已统一风格） -->
-  <a href="https://www.kaggle.com/hanxiangli666">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
+| Area | What I build | Evidence style |
+| --- | --- | --- |
+| AI Products | RAG tools, AI coaching, interview training, repo analysis, learning assistants | Working apps, architecture notes, model pipelines, tests |
+| Full-Stack Systems | Vue/React frontends, FastAPI APIs, Cloudflare/Supabase/Render deployments | Live links, routes, schemas, workers, auth, billing |
+| Applied ML / Research | Paper replication, Kaggle, medical KBQA, federated learning, algorithms | Notebooks, datasets, metrics, SHAP plots, technical writeups |
 
-  <!-- LeetCode（保持不变） -->
-  <a href="https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/">
-    <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
-  </a>
+## Links
 
-  <!-- 洛谷（已统一风格） -->
-  <a href="https://www.luogu.com.cn/user/2121025/practice">
-    <img src="https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white" alt="洛谷"/>
-  </a>
+[LinkedIn](https://www.linkedin.com/in/hanxiang-li-0b6590396/) · [Email](mailto:hanxiangli666@gmail.com) · [GitHub](https://github.com/hanxiangli666) · [Kaggle](https://www.kaggle.com/hanxiangli666) · [LeetCode](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
 
-  <a href="https://wakatime.com/@a2c2e723-23a9-45ca-b28a-0118606aeaa1">
-    <img src="https://wakatime.com/badge/user/a2c2e723-23a9-45ca-b28a-0118606aeaa1.svg?v=1" alt="Total time coded since start" />
-  </a>
-</p>
+## Featured Work
 
-## 🚀 About Me
-- 🎓 **Education:** Sophomore at **Drew University**, B.S. Engineering Dual Degree (Drew + Columbia) in Computer Science.
-- 🤖 **Focus:** Mathematics, Machine Learning, Large Language Models.
-- 🔭 **Currently working on:** AI-powered daily digest system, Basketball Team Manager, LangChain.
-- 🏀 **Interests:** Basketball (Former Captain), **MBTI (INFJ)**, and Chess.
-- 🌎 **Live in:** Madison, New Jersey, USA | Shenzhen, Guangdong, China
-- 📚 **Spoken Languages:** English, Chinese, Japanese, Spanish
+| Project | Problem | What I built | Stack | Evidence | Status |
+| --- | --- | --- | --- | --- | --- |
+| **WhyThisMove / IronWall Chess Engine** | Chess tools usually show what to play, not why a move matters. | A paid AI chess coaching platform with Stockfish analysis, Maia human-move prediction, LLM explanations, opening trainer, blunder training, game analysis, and LLM battle mode. | React 19, Vite, TypeScript, Mantine, Tailwind, Zustand, TanStack Query, FastAPI, PostgreSQL, ClickHouse, Stockfish, Maia, OpenRouter, Docker Compose, Caddy/nginx, Vitest | [Live site](https://why-this-move.com), private code case study | Private repo, public product |
+| **Basketball Team Manager** | Coaches need fast practice, roster, injury, and game-rotation tools without spreadsheet friction. | A production Drew basketball operations app with practice stats, game clock/rotation flow, admin roster review, injuries, PDF practice reports, D1 persistence, and scheduled roster sync. | Vue 3, Vite, Tailwind, Cloudflare Pages Functions, Cloudflare D1, Worker Cron, Node test runner | [Repo](https://github.com/hanxiangli666/Basketball-Team-Manager), [Live domain](https://drew-mbb.com) | Public |
+| **Citely** | Students and researchers need to find real sources and detect weak or fake AI-generated citations. | A citation verification and source-finding product with public tools, logged-in workspaces, PDF ingestion, citation matching, RAG chat, credit usage, and Stripe billing. | Vue 3, TypeScript, FastAPI, Supabase Auth/Postgres/Storage/RLS/pgvector, OpenAI Responses API, Semantic Scholar, OpenAlex, Crossref, PubMed, arXiv, PyMuPDF, Stripe, Netlify, Render, pytest | [Live site](https://citely-ai-rag.netlify.app), private code case study | Private repo, public product |
+| **Zhimian** | Job seekers need realistic interview practice with feedback, emotion signals, and enterprise workflows. | An AI interview platform with WebSocket interview flow, emotion analysis, site chatbot, RBAC admin console, payment-proof review, enterprise verification, question bank, and community operations. | TypeScript frontend, FastAPI, SQLAlchemy, Alembic, WebSocket, RAG service, RBAC, pytest | Private repo case study | Private |
+| **Project Helper** | Developers need a safe way to understand unfamiliar GitHub repositories quickly. | A repo-analysis SaaS prototype that shallow-clones public repos, streams analysis progress, creates Markdown/HTML reports, renders Mermaid diagrams, and supports safe file/search Q&A. | FastAPI, Vue 3, TypeScript, Vite, SQLite/Supabase, SSE, Markdown export, Mermaid | Private repo case study | Private |
+| **Medical KBQA** | Medical question answering needs structured domain knowledge, not only free-text generation. | A medical knowledge-graph QA system linking NER, BERT intent recognition, BiLSTM-CRF slot filling, semantic parsing, Cypher templates, Neo4j, Flask services, and Streamlit UI. | Python, BERT, BiLSTM-CRF, Neo4j, Cypher, Flask, Streamlit | Private repo case study | Private |
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanxiang-li-0b6590396/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanxiangli666@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/james_hanxiang/)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](https://github.com/hanxiangli666/hanxiangli666/blob/main/wechat.jpg)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hanxiang_l31110)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61584190033952)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HanxiangLi-k1h)
+## Public Repositories To Start With
 
----
+- [Basketball-Team-Manager](https://github.com/hanxiangli666/Basketball-Team-Manager): strongest public engineering proof, with Cloudflare architecture and tests.
+- [Nocturne_AI](https://github.com/hanxiangli666/Nocturne_AI): LangChain, FAISS, Streamlit, RAG, and AI learning assistant experiments.
+- [Replication-of-Papers](https://github.com/hanxiangli666/Replication-of-Papers): battery SOH replication with EIS features, XGBoost, LOOCV, and SHAP outputs.
+- [Kaggle](https://github.com/hanxiangli666/Kaggle): Titanic ML workflow with data cleaning, feature engineering, model comparison, and submissions.
+- [Data-structure-and-Algorithms](https://github.com/hanxiangli666/Data-structure-and-Algorithms): C++, Java, Python, Go, JavaScript, ICPC, LeetCode, and algorithm practice.
+- [smartyihui-web](https://github.com/hanxiangli666/smartyihui-web): Vue/Vite business website delivery for Guangzhou Yihui Intelligent Technology.
 
-## 🛠 Tech Stack
+## Technical Evidence
 
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+**AI / LLM systems:** RAG, LangChain LCEL, FAISS, embeddings, OpenAI-compatible APIs, OpenAI Responses API, DeepSeek-compatible chat, prompt design, retrieval chains, streaming chat, AI tutoring, AI interview practice.
 
-**Frameworks & Libraries**
-<p align="left">
-  <a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-  <a href="https://www.tensorflow.org/install"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
+**Full-stack engineering:** React, Next.js, Vue, TypeScript, Vite, Tailwind, FastAPI, Flask, SQLAlchemy, PostgreSQL, SQLite, Supabase, Cloudflare D1, Cloudflare Pages Functions, Worker Cron, Netlify, Render, Docker Compose.
 
-**Tools & Platforms**
-<p align="left">
-  <a href="https://git-scm.com/downloads"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/download"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" /></a>
-  <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+**Data / research / ML:** Kaggle workflows, scikit-learn, XGBoost, random forests, SVM, MLP, SHAP, EIS feature extraction, battery SOH prediction, medical NER, BERT intent classification, BiLSTM-CRF, Neo4j, Cypher.
 
----
+**Testing and delivery:** Node test runner, Vitest, Testing Library, pytest, API route tests, build checks, deployment configs, migration files, public live domains.
 
-## 📊 GitHub Stats
+## Research And Learning Track
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hanxiangli666&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" />
-</div>
+- **Paper replication:** battery state-of-health prediction from EIS and capacity data, including LOOCV evaluation and SHAP interpretability.
+- **ML foundations:** Coursera-style neural-network notebooks, federated-learning coursework, model-compression notes, Kaggle practice.
+- **Algorithms:** multi-language data structures, ICPC notes, LeetCode practice, C++ STL experiments.
+- **Systems foundations:** Linux, LFCS preparation, shell scripting, IT foundations, cloud computing, databases, networking, computer architecture.
 
----
+## Current Direction
+
+I am building a long-term portfolio around applied AI products: systems that combine model reasoning, real user workflows, production deployment, and readable technical documentation.
