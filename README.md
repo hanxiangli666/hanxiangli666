@@ -1,4 +1,4 @@
-# Hanxiang "James" Li
+# James Li
 
 **AI Product Engineer / Computer Science student building applied AI products, full-stack systems, and research-oriented ML projects.**
 
