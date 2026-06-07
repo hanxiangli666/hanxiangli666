@@ -16,7 +16,7 @@ I use this profile as a technical map of what I can design, build, test, deploy,
 
 ## Links
 
-[Portfolio](https://jamesli-thegoat.vercel.app) · [LinkedIn](https://www.linkedin.com/in/hanxiang-li-0b6590396/) · [Email](mailto:hanxiangli666@gmail.com) · [WeChat](wechat.jpg) · [Kaggle](https://www.kaggle.com/hanxiangli666) · [LeetCode](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
+Portfolio coming soon · [LinkedIn](https://www.linkedin.com/in/hanxiang-li-0b6590396/) · [Email](mailto:hanxiangli666@gmail.com) · [WeChat](wechat.jpg) · [Kaggle](https://www.kaggle.com/hanxiangli666) · [LeetCode](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
 
 ## Featured Work
 
