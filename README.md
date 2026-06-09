@@ -10,7 +10,7 @@ I use this profile as a technical map of what I can design, build, test, deploy,
 | --- | --- | --- |
 | AI Products | RAG tools, AI coaching, interview training, repo analysis, knowledge bases, resume analyzers | Full-stack apps, model pipelines, backend services, deployment notes |
 | Java / Spring Systems | Spring Boot, Spring AI, microservices, RBAC, Redis, MyBatis/MyBatis-Plus, Dubbo, Nacos, Sentinel, Seata, MQ | Course-level enterprise systems, APIs, service modules, SQL schemas |
-| Data Engineering | Data warehouses, user profiles, Flink CDC, Kudu, StarRocks, SeaTunnel, Atlas, Griffin, HDFS/Hive/Spark-style workflows | ETL scripts, SQL, configs, notes, data-modeling docs |
+| Data Engineering | Data warehouses, user profiles, Flink CDC, Flink SQL, Hudi, Doris, Kudu, StarRocks, SeaTunnel, Atlas, Griffin, HDFS/Hive/Spark-style workflows | ETL scripts, SQL, configs, notes, data-modeling docs |
 | Applied ML / Research | Kaggle, paper replication, federated learning, medical KBQA, chess data, LLM/agent papers | Notebooks, scripts, metrics, technical writeups |
 | Foundations | Algorithms, Linux, cloud, databases, networking, system design, codebase reading | Notes, templates, implementation exercises |
 
@@ -67,7 +67,7 @@ Portfolio coming soon · [LinkedIn](https://www.linkedin.com/in/hanxiang-li-0b65
 | 36 | **Heima Unified Data Warehouse** | E-commerce analytics needs CDC ingestion, analytical storage, and warehouse layers. | Studied Flink CDC, StarRocks, MySQL incremental scripts, shell data generators, and unified warehouse lecture materials. | Flink CDC, StarRocks, MySQL, shell scripts, data warehouse modeling |
 | 37 | **Heima User Profile System** | User operations need tag systems, profile modeling, and offline/online data pipelines. | Studied user-profile notes, Python scripts, SQL models, config files, EDQL, and data-platform materials. | Python, SQL, Hive/Spark-style configs, EDQL, INI/conf files |
 | 38 | **Heima Zhixing Education** | Education products need version control, code review, database modeling, and deployment materials. | Studied online education notes, SQL scripts, PDM/PDB models, shell scripts, Git/GitLab/code-review documents, and project planning docs. | SQL, shell, Git/GitLab, database modeling, project documentation |
-| 39 | **Heima Flink Local Snapshot** | Stream-processing practice needs source files to be technically verifiable. | Local snapshot currently contains only `.git`; kept as a placeholder until source files are available. | Flink topic inferred from repo name only; no local source verified |
+| 39 | **Heima Boxuegu Flink Real-Time Education Data Warehouse** | Online education analytics needs low-latency ingestion from business databases into warehouse layers and BI metrics. | Built a documented end-to-end project thread for a Boxuegu-style education warehouse: MySQL business tables to Flink CDC, Hudi ODS/DWD/DWS layers, Doris serving, BI dashboard metrics, Dinky deployment notes, performance tuning notes, and a portfolio evidence checklist. | Flink CDC, Flink SQL, Hudi, Doris, Hive Catalog/Metastore, Dinky, MySQL, BI dashboards, data warehouse modeling |
 | 40 | **Heima Qianmian E-commerce Local Snapshot** | E-commerce practice needs source files to be technically verifiable. | Local snapshot currently contains only `.git`; kept as a placeholder until source files are available. | E-commerce topic inferred from repo name only; no local source verified |
 | 41 | **Heima Workflow Local Snapshot** | Workflow-engine practice needs source files to be technically verifiable. | Local snapshot currently contains only `.git`; kept as a placeholder until source files are available. | Workflow topic inferred from repo name only; no local source verified |
 | 42 | **Canzhang Gui Empty Snapshot** | Restaurant system materials should not be duplicated without files. | `canzhang_gui` local snapshot contains only `.git`; the usable restaurant/Dubbo material is covered by `canzhanggui`. | No local source verified |
@@ -147,7 +147,7 @@ This README was mapped from the local workspace snapshots under `work/private_re
 
 **Frontend:** React, Next.js, Vue 3, Vite, TypeScript, JavaScript, Tailwind, Mantine, Zustand, TanStack Query, uni-app, ECharts, CSS/SCSS.
 
-**Data / Infrastructure:** PostgreSQL, pgvector, Supabase, Cloudflare D1, MySQL, SQLite, ClickHouse, Redis, Nacos, XXL-Job, Docker Compose, Caddy, nginx, Netlify, Render, Cloudflare Pages, StarRocks, SeaTunnel, Kudu, Atlas, Griffin, Flink CDC.
+**Data / Infrastructure:** PostgreSQL, pgvector, Supabase, Cloudflare D1, MySQL, SQLite, ClickHouse, Redis, Nacos, XXL-Job, Docker Compose, Caddy, nginx, Netlify, Render, Cloudflare Pages, StarRocks, SeaTunnel, Kudu, Hudi, Doris, Hive Catalog, Dinky, Atlas, Griffin, Flink CDC, Flink SQL.
 
 **ML / Research:** scikit-learn, XGBoost-style modeling, SHAP, battery SOH prediction, medical NER, BERT, BiLSTM-CRF, Neo4j/Cypher, federated learning, diffusion models, RAE, LLM-from-scratch practice, Kaggle, MCM/ICM modeling.
 
