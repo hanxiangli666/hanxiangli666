@@ -14,9 +14,19 @@ I use this profile as a technical map of what I can design, build, test, deploy,
 | Applied ML / Research | Kaggle, paper replication, federated learning, medical KBQA, chess data, LLM/agent papers | Notebooks, scripts, metrics, technical writeups |
 | Foundations | Algorithms, Linux, cloud, databases, networking, system design, codebase reading | Notes, templates, implementation exercises |
 
-## Links
+## Connect
 
-Portfolio coming soon · [LinkedIn](https://www.linkedin.com/in/hanxiang-li-0b6590396/) · [Email](mailto:hanxiangli666@gmail.com) · [WeChat](wechat.jpg) · [Kaggle](https://www.kaggle.com/hanxiangli666) · [LeetCode](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/) · [Luogu](https://www.luogu.com.cn/user/2121025/practice)
+Portfolio coming soon
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanxiang-li-0b6590396/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanxiangli666@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](wechat.jpg)
+
+## Coding Profiles
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hanxiangli666)
+[![LeetCode](https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
+[![Luogu](https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white)](https://www.luogu.com.cn/user/2121025/practice)
 
 ## Featured Work
 
