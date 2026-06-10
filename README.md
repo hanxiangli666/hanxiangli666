@@ -2,6 +2,19 @@
 
 **AI Product Engineer / Computer Science student building applied AI products, full-stack systems, Java/Spring backend systems, data engineering projects, and research-oriented ML work.**
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:2563EB,100:06B6D4&height=92&section=header&text=Applied%20AI%20Products%20%7C%20Full-Stack%20Systems%20%7C%20Data%20Engineering&fontColor=FFFFFF&fontSize=22&fontAlignY=52" alt="Applied AI products, full-stack systems, and data engineering" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mapped%20Projects-74-0F766E?style=for-the-badge" alt="74 mapped projects" />
+  <img src="https://img.shields.io/badge/AI%20%2B%20Full--Stack-18-2563EB?style=for-the-badge" alt="18 AI and full-stack builds" />
+  <img src="https://img.shields.io/badge/Java%20%2F%20Spring-23-DC2626?style=for-the-badge" alt="23 Java and Spring systems" />
+  <img src="https://img.shields.io/badge/Data%20%2B%20ML-13-7C3AED?style=for-the-badge" alt="13 data and ML projects" />
+</p>
+
+I like building systems that explain, not just automate: AI tools with real workflows, backend services that hold up under use, and technical notes that make the next build faster.
+
 I use this profile as a technical map of what I can design, build, test, deploy, study, and explain. The projects below include public repositories, private product codebases, Heima enterprise-course systems, AI/RAG experiments, data/ML work, and long-form technical notes.
 
 ## Focus
@@ -28,7 +41,23 @@ Portfolio coming soon
 [![LeetCode](https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
 [![Luogu](https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white)](https://www.luogu.com.cn/user/2121025/practice)
 
+| Profile | What it shows | Evidence I keep visible |
+| --- | --- | --- |
+| Kaggle | Modeling workflow, data cleaning, validation, and submissions | Titanic notebooks/scripts plus train, test, and submission artifacts |
+| LeetCode | Interview-style algorithms and data-structure practice | Multi-language DSA notes, templates, and implementation exercises |
+| Luogu | Competitive-programming rhythm and problem-solving habits | Practice archive link plus C++/Python algorithm template repositories |
+
 ## Featured Work
+
+Start here if you want the fastest read. The full project map continues below.
+
+| Case study | Why it is interesting | Signal |
+| --- | --- | --- |
+| **WhyThisMove / IronWall Chess Engine** | Turns chess-engine output into human-facing coaching, practice loops, and mistake explanations. | AI coach, opening trainer, blunder practice, game review, worker services, deployment configs |
+| **Citely** | Treats citation quality as a product problem, not just a search box. | PDF ingestion, citation matching, RAG chat, academic APIs, credits, auth, deployment |
+| **Zhimian AI Interview Platform** | Combines real-time interview practice with admin, enterprise, and review workflows. | WebSocket sessions, emotion analysis, RAG chatbot, RBAC, payment-proof review, smoke tests |
+| **Drew Rangers Tracker Pro** | Shows product engineering outside the usual AI demo lane. | Game clock, rotations, injuries, roster sync, PDF reports, Cloudflare D1, tests |
+| **Heima Boxuegu Flink Warehouse** | Makes data engineering concrete through a complete real-time warehouse thread. | Flink CDC, Hudi layers, Doris serving, Dinky notes, BI metrics, performance notes |
 
 ### AI Products And Full-Stack Builds
 
