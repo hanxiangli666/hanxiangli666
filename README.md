@@ -17,6 +17,24 @@ I like building systems that explain, not just automate: AI tools with real work
 
 I use this profile as a technical map of what I can design, build, test, deploy, study, and explain. The projects below include public repositories, private product codebases, Heima enterprise-course systems, AI/RAG experiments, data/ML work, and long-form technical notes.
 
+## Now Building
+
+| Track | What I am pushing forward | Current proof |
+| --- | --- | --- |
+| AI product systems | Turning model reasoning into products with real user flows, evaluation loops, and deployable services | WhyThisMove, Citely, Zhimian, Project Helper, AI knowledge-base builds |
+| Java / Spring backend depth | Practicing enterprise-grade service structure, permissions, RAG services, microservices, and infrastructure patterns | Spring AI RAG apps, RuoYi/Tianji/Yunlan/Zhongzhou/Heima systems |
+| Data and ML evidence | Keeping data work concrete through notebooks, pipelines, model replication, warehouse layers, and visible artifacts | Kaggle Titanic workflow, battery SOH replication, Flink warehouse, user-profile systems |
+
+## What I Am Good At
+
+| Strength | How it shows up in my work |
+| --- | --- |
+| Turning rough ideas into working products | I move from problem framing to backend, frontend, deployment notes, and testable workflows. |
+| Connecting AI to real workflows | I focus on retrieval, feedback, coaching, review, ingestion, and decision support instead of chatbot demos only. |
+| Reading and mapping large systems | I turn course systems, private repos, and research codebases into structured notes, stack maps, and implementation trails. |
+| Building with backend and infrastructure awareness | I care about schemas, auth, queues, caching, service boundaries, smoke tests, and deployment shape. |
+| Learning in public through artifacts | I keep notebooks, templates, reports, screenshots, notes, and repositories as evidence of progress. |
+
 ## Focus
 
 | Area | What I build or practice | Output |
@@ -41,23 +59,43 @@ Portfolio coming soon
 [![LeetCode](https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
 [![Luogu](https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white)](https://www.luogu.com.cn/user/2121025/practice)
 
-| Profile | What it shows | Evidence I keep visible |
-| --- | --- | --- |
-| Kaggle | Modeling workflow, data cleaning, validation, and submissions | Titanic notebooks/scripts plus train, test, and submission artifacts |
-| LeetCode | Interview-style algorithms and data-structure practice | Multi-language DSA notes, templates, and implementation exercises |
-| Luogu | Competitive-programming rhythm and problem-solving habits | Practice archive link plus C++/Python algorithm template repositories |
+| Profile | What it shows | Visible proof | What I use it for |
+| --- | --- | --- | --- |
+| Kaggle | Modeling workflow, data cleaning, validation, and submissions | Titanic notebooks/scripts plus train, test, and submission artifacts | Practicing end-to-end ML problem solving, not just model fitting |
+| LeetCode | Interview-style algorithms and data-structure practice | Multi-language DSA notes, templates, and implementation exercises | Keeping fundamentals sharp for backend, systems, and interviews |
+| Luogu | Competitive-programming rhythm and problem-solving habits | Practice archive link plus C++/Python algorithm template repositories | Building speed, precision, and comfort with algorithmic constraints |
 
 ## Featured Work
 
-Start here if you want the fastest read. The full project map continues below.
+Start here if you want the fastest read. The detailed project map continues after these entry points.
 
-| Case study | Why it is interesting | Signal |
+| Layer | Best entry point | What to look for |
 | --- | --- | --- |
-| **WhyThisMove / IronWall Chess Engine** | Turns chess-engine output into human-facing coaching, practice loops, and mistake explanations. | AI coach, opening trainer, blunder practice, game review, worker services, deployment configs |
-| **Citely** | Treats citation quality as a product problem, not just a search box. | PDF ingestion, citation matching, RAG chat, academic APIs, credits, auth, deployment |
-| **Zhimian AI Interview Platform** | Combines real-time interview practice with admin, enterprise, and review workflows. | WebSocket sessions, emotion analysis, RAG chatbot, RBAC, payment-proof review, smoke tests |
-| **Drew Rangers Tracker Pro** | Shows product engineering outside the usual AI demo lane. | Game clock, rotations, injuries, roster sync, PDF reports, Cloudflare D1, tests |
-| **Heima Boxuegu Flink Warehouse** | Makes data engineering concrete through a complete real-time warehouse thread. | Flink CDC, Hudi layers, Doris serving, Dinky notes, BI metrics, performance notes |
+| Product case studies | [AI Products And Full-Stack Builds](#ai-products-and-full-stack-builds) | Real user workflows, backend services, AI/RAG features, deployment shape |
+| Enterprise backend practice | [Java / Spring / Heima Enterprise Systems](#java--spring--heima-enterprise-systems) | Service modules, RBAC, Spring ecosystem, SQL, distributed-system practice |
+| Data / ML / modeling | [Data, ML, Chess, And Modeling](#data-ml-chess-and-modeling) | Notebooks, metrics, pipelines, warehouse layers, research replication |
+| Agent and code intelligence research | [AI Agents, Code Intelligence, And Research Indexes](#ai-agents-code-intelligence-and-research-indexes) | Codebase study, paper indexes, agent frameworks, benchmark maps |
+| Foundations and knowledge systems | [Algorithms, Foundations, Notes, And Personal Knowledge Systems](#algorithms-foundations-notes-and-personal-knowledge-systems) | Algorithms, Linux, cloud, system design, Obsidian knowledge infrastructure |
+
+| Label | Meaning |
+| --- | --- |
+| Production build | Product-shaped app with real workflows, deployment, or operational concerns |
+| Private codebase | Substantial work exists, but the repository or parts of it are not public |
+| Public repo | Public GitHub repository that can be inspected directly |
+| Course system | Enterprise-course or structured practice project with real source/materials |
+| Data engineering | Pipeline, warehouse, modeling, BI, or data-infrastructure practice |
+| Research / modeling | Notebook, paper replication, data analysis, or ML experiment trail |
+| Knowledge system | Notes, maps, templates, or learning infrastructure |
+
+### Selected Case Studies
+
+| Case study | Label | Why it is interesting | Evidence / visual entry point |
+| --- | --- | --- | --- |
+| **WhyThisMove / IronWall Chess Engine** | Production build, Private codebase | Turns chess-engine output into human-facing coaching, practice loops, and mistake explanations. | AI coach, opening trainer, blunder practice, game review, worker services, deployment configs; screenshots and case-study notes are tracked with the private product materials |
+| **Citely** | Production build, Private codebase | Treats citation quality as a product problem, not just a search box. | PDF ingestion, citation matching, RAG chat, academic APIs, credits, auth, deployment; screenshot/case-study material is being curated with the portfolio work |
+| **Zhimian AI Interview Platform** | Production build, Private codebase | Combines real-time interview practice with admin, enterprise, and review workflows. | WebSocket sessions, emotion analysis, RAG chatbot, RBAC, payment-proof review, smoke tests; visual proof lives with the product deployment notes |
+| **Drew Rangers Tracker Pro** | Production build, Public repo | Shows product engineering outside the usual AI demo lane. | [Basketball-Team-Manager](https://github.com/hanxiangli666/Basketball-Team-Manager) with game clock, rotations, injuries, roster sync, PDF reports, Cloudflare D1, and tests |
+| **Heima Boxuegu Flink Warehouse** | Course system, Data engineering | Makes data engineering concrete through a complete real-time warehouse thread. | Flink CDC, Hudi layers, Doris serving, Dinky notes, BI metrics, performance notes, and a portfolio evidence checklist |
 
 ### AI Products And Full-Stack Builds
 
