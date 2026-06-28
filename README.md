@@ -55,7 +55,7 @@ Portfolio coming soon
 
 ## Coding Profiles
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hanxiangli666)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hanxiangjames)
 [![LeetCode](https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
 [![Luogu](https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white)](https://www.luogu.com.cn/user/2121025/practice)
 
