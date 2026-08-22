@@ -47,8 +47,6 @@ I use this profile as a technical map of what I can design, build, test, deploy,
 
 ## Connect
 
-Portfolio coming soon
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanxiangli666@gmail.com)
 [![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](wechat.jpg)
 
