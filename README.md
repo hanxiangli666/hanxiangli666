@@ -1,236 +1,110 @@
-# James Li
-
-**AI Product Engineer / Computer Science student building applied AI products, full-stack systems, Java/Spring backend systems, data engineering projects, and research-oriented ML work.**
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:2563EB,100:06B6D4&height=92&section=header&text=Applied%20AI%20Products%20%7C%20Full-Stack%20Systems%20%7C%20Data%20Engineering&fontColor=FFFFFF&fontSize=22&fontAlignY=52" alt="Applied AI products, full-stack systems, and data engineering" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:0F172A,55:2563EB,100:06B6D4&text=Hanxiang%20(James)%20Li&fontColor=FFFFFF&fontSize=46&fontAlignY=42&desc=AI%20products%2C%20shipped%20end%20to%20end&descAlignY=68&descSize=18&animation=fadeIn" alt="Hanxiang (James) Li" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mapped%20Projects-74-0F766E?style=for-the-badge" alt="74 mapped projects" />
-  <img src="https://img.shields.io/badge/AI%20%2B%20Full--Stack-18-2563EB?style=for-the-badge" alt="18 AI and full-stack builds" />
-  <img src="https://img.shields.io/badge/Java%20%2F%20Spring-23-DC2626?style=for-the-badge" alt="23 Java and Spring systems" />
-  <img src="https://img.shields.io/badge/Data%20%2B%20ML-13-7C3AED?style=for-the-badge" alt="13 data and ML projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2600&pause=900&color=2F81F7&center=true&vCenter=true&width=700&height=40&lines=CTO+%26+founding+engineer+%40+YuanMil;Spring+Boot+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+uni-app;LLM+retrieval%2C+agents%2C+and+the+back+ends+behind+them;Chess+engines+and+basketball+on+the+side" alt="What I do" />
 </p>
 
-I like building systems that explain, not just automate: AI tools with real workflows, backend services that hold up under use, and technical notes that make the next build faster.
+<p align="center">
+  <a href="mailto:hanxiangli666@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/hanxiang-li"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/hanxiangjames"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/Hanxiang_LI"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+</p>
 
-I use this profile as a technical map of what I can design, build, test, deploy, study, and explain. The projects below include public repositories, private product codebases, Heima enterprise-course systems, AI/RAG experiments, data/ML work, and long-form technical notes.
+I build AI products end to end: the model pipeline, the back end, the client, and the deploy. Most of my commits right now go to YuanMil OS, where I am CTO. Much of that code is private, so every project below links to the running product.
 
-## Now Building
+## 🚀 What I'm shipping
 
-| Track | What I am pushing forward | Current proof |
-| --- | --- | --- |
-| AI product systems | Turning model reasoning into products with real user flows, evaluation loops, and deployable services | WhyThisMove, Citely, Zhimian, Project Helper, AI knowledge-base builds |
-| Java / Spring backend depth | Practicing enterprise-grade service structure, permissions, RAG services, microservices, and infrastructure patterns | Spring AI RAG apps, RuoYi/Tianji/Yunlan/Zhongzhou/Heima systems |
-| Data and ML evidence | Keeping data work concrete through notebooks, pipelines, model replication, warehouse layers, and visible artifacts | Kaggle Titanic workflow, battery SOH replication, Flink warehouse, user-profile systems |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/cn/app/id6795852285"><img src="assets/yuanmil-os.jpg" alt="YuanMil OS app screens" /></a>
+      <h3>YuanMil OS</h3>
+      <p>Members-only hospitality platform: a WeChat Mini Program, an iOS app, and operations consoles on a Spring Boot back end with WeChat Pay and an AI concierge. I own the architecture and the releases.</p>
+      <p>
+        <a href="https://apps.apple.com/cn/app/id6795852285"><img src="https://img.shields.io/badge/App%20Store-live-0D96F6?style=flat-square&logo=appstore&logoColor=white" alt="App Store" /></a>
+        <img src="https://img.shields.io/badge/repo-private-6E7781?style=flat-square&logo=github" alt="private repo" />
+        <img src="https://img.shields.io/badge/commits-3%2C200%2B-2563EB?style=flat-square" alt="3,200+ commits" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://why-this-move.com"><img src="assets/whythismove.jpg" alt="WhyThisMove analysis board" /></a>
+      <h3>WhyThisMove</h3>
+      <p>An AI chess coach that explains why a move was a mistake instead of only showing the engine line. Stockfish plus a human-move model, on a 1.2 TB Lichess opening database.</p>
+      <p>
+        <a href="https://why-this-move.com"><img src="https://img.shields.io/badge/why--this--move.com-live-2EA44F?style=flat-square" alt="live site" /></a>
+        <img src="https://img.shields.io/badge/repo-private-6E7781?style=flat-square&logo=github" alt="private repo" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://zhimian.site"><img src="assets/zhimian.jpg" alt="Zhimian panel interview" /></a>
+      <h3>Zhimian</h3>
+      <p>An AI mock-interview platform: real-time interview sessions over WebSocket, a retrieval-backed help assistant, and an admin console.</p>
+      <p>
+        <a href="https://zhimian.site"><img src="https://img.shields.io/badge/zhimian.site-live-2EA44F?style=flat-square" alt="live site" /></a>
+        <img src="https://img.shields.io/badge/repo-private-6E7781?style=flat-square&logo=github" alt="private repo" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://drew-mbb.com"><img src="assets/tracker.jpg" alt="Drew Rangers Tracker Pro" /></a>
+      <h3>Drew Rangers Tracker Pro</h3>
+      <p>The substitution and rotation app a college basketball coaching staff has used in games since March 2026. Game clock, rotations, injuries, and PDF practice reports.</p>
+      <p>
+        <a href="https://drew-mbb.com"><img src="https://img.shields.io/badge/drew--mbb.com-live-2EA44F?style=flat-square" alt="live site" /></a>
+        <a href="https://github.com/hanxiangli666/Basketball-Team-Manager"><img src="https://img.shields.io/badge/code-public-2563EB?style=flat-square&logo=github" alt="public code" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## What I Am Good At
+**Also building**
 
-| Strength | How it shows up in my work |
-| --- | --- |
-| Turning rough ideas into working products | I move from problem framing to backend, frontend, deployment notes, and testable workflows. |
-| Connecting AI to real workflows | I focus on retrieval, feedback, coaching, review, ingestion, and decision support instead of chatbot demos only. |
-| Reading and mapping large systems | I turn course systems, private repos, and research codebases into structured notes, stack maps, and implementation trails. |
-| Building with backend and infrastructure awareness | I care about schemas, auth, queues, caching, service boundaries, smoke tests, and deployment shape. |
-| Learning in public through artifacts | I keep notebooks, templates, reports, screenshots, notes, and repositories as evidence of progress. |
+- 🔬 **DiscoveryHub**: LLM retrieval that matches pharmaceutical R&D interests to university patents. LoRA fine-tuned embeddings and a reranker lifted top-10 retrieval from 52.3% to 68.0%.
+- 🏀 **Basketball mini-games**: two HTML5 games on TapTap and Hupu, a career simulation and a refereeing game built on FIBA rules.
 
-## Focus
+## 💬 Happy to compare notes on
 
-| Area | What I build or practice | Output |
-| --- | --- | --- |
-| AI Products | RAG tools, AI coaching, interview training, repo analysis, knowledge bases, resume analyzers | Full-stack apps, model pipelines, backend services, deployment notes |
-| Java / Spring Systems | Spring Boot, Spring AI, microservices, RBAC, Redis, MyBatis/MyBatis-Plus, Dubbo, Nacos, Sentinel, Seata, MQ | Course-level enterprise systems, APIs, service modules, SQL schemas |
-| Data Engineering | Data warehouses, user profiles, Flink CDC, Flink SQL, Hudi, Doris, Kudu, StarRocks, SeaTunnel, Atlas, Griffin, HDFS/Hive/Spark-style workflows | ETL scripts, SQL, configs, notes, data-modeling docs |
-| Applied ML / Research | Kaggle, paper replication, federated learning, medical KBQA, chess data, LLM/agent papers | Notebooks, scripts, metrics, technical writeups |
-| Foundations | Algorithms, Linux, cloud, databases, networking, system design, codebase reading | Notes, templates, implementation exercises |
+- Shipping one uni-app codebase to both a WeChat Mini Program and the App Store
+- WeChat Pay in production: split payments, commission ledgers, and withdrawals
+- Fine-tuning embedding and reranker models for retrieval, and measuring whether it helped
+- Serving chess analysis from a 1.2 TB opening database without a big server bill
+- Running a product as the only engineer: CI/CD, releases, and what to leave unbuilt
 
-## Connect
+Building something nearby, or want a second pair of eyes on an idea? Email me.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanxiangli666@gmail.com)
-[![WeChat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)](wechat.jpg)
+## 🛠 Toolbox
 
-## Coding Profiles
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,ts,react,vue,nodejs,mysql,postgres,redis,docker,cloudflare,githubactions&perline=14" alt="Java, Spring, Python, FastAPI, TypeScript, React, Vue, Node.js, MySQL, PostgreSQL, Redis, Docker, Cloudflare, GitHub Actions" />
+</p>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/hanxiangjames)
-[![LeetCode](https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.cn/u/ren-jian-guan-cha-zhe-z/)
-[![Luogu](https://img.shields.io/badge/%E6%B4%9B%E8%B0%B7-3498DB?style=flat-square&logo=luogu&logoColor=white)](https://www.luogu.com.cn/user/2121025/practice)
+## 📈 Activity
 
-| Profile | What it shows | Visible proof | What I use it for |
-| --- | --- | --- | --- |
-| Kaggle | Modeling workflow, data cleaning, validation, and submissions | Titanic notebooks/scripts plus train, test, and submission artifacts | Practicing end-to-end ML problem solving, not just model fitting |
-| LeetCode | Interview-style algorithms and data-structure practice | Multi-language DSA notes, templates, and implementation exercises | Keeping fundamentals sharp for backend, systems, and interviews |
-| Luogu | Competitive-programming rhythm and problem-solving habits | Practice archive link plus C++/Python algorithm template repositories | Building speed, precision, and comfort with algorithmic constraints |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hanxiangli666&hide_border=true&background=0D1117&ring=2F81F7&fire=06B6D4&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=2F81F7&sideLabels=E6EDF3&dates=8B949E&stroke=30363D" />
+    <img src="https://streak-stats.demolab.com/?user=hanxiangli666&hide_border=true&ring=2563EB&fire=06B6D4&currStreakLabel=2563EB" alt="GitHub streak" />
+  </picture>
+</p>
 
-## Featured Work
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hanxiangli666&hide_border=true&area=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=E6EDF3&area_color=2F81F7&title_color=E6EDF3" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanxiangli666&hide_border=true&area=true&bg_color=FFFFFF&color=2563EB&line=2563EB&point=0F172A&area_color=2563EB&title_color=0F172A" alt="Contribution graph" width="100%" />
+  </picture>
+</p>
 
-Start here if you want the fastest read. The detailed project map continues after these entry points.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanxiangli666/hanxiangli666/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/hanxiangli666/hanxiangli666/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
+</p>
 
-| Layer | Best entry point | What to look for |
-| --- | --- | --- |
-| Product case studies | [AI Products And Full-Stack Builds](#ai-products-and-full-stack-builds) | Real user workflows, backend services, AI/RAG features, deployment shape |
-| Enterprise backend practice | [Java / Spring / Heima Enterprise Systems](#java--spring--heima-enterprise-systems) | Service modules, RBAC, Spring ecosystem, SQL, distributed-system practice |
-| Data / ML / modeling | [Data, ML, Chess, And Modeling](#data-ml-chess-and-modeling) | Notebooks, metrics, pipelines, warehouse layers, research replication |
-| Agent and code intelligence research | [AI Agents, Code Intelligence, And Research Indexes](#ai-agents-code-intelligence-and-research-indexes) | Codebase study, paper indexes, agent frameworks, benchmark maps |
-| Foundations and knowledge systems | [Algorithms, Foundations, Notes, And Personal Knowledge Systems](#algorithms-foundations-notes-and-personal-knowledge-systems) | Algorithms, Linux, cloud, system design, Obsidian knowledge infrastructure |
-
-| Label | Meaning |
-| --- | --- |
-| Production build | Product-shaped app with real workflows, deployment, or operational concerns |
-| Private codebase | Substantial work exists, but the repository or parts of it are not public |
-| Public repo | Public GitHub repository that can be inspected directly |
-| Course system | Enterprise-course or structured practice project with real source/materials |
-| Data engineering | Pipeline, warehouse, modeling, BI, or data-infrastructure practice |
-| Research / modeling | Notebook, paper replication, data analysis, or ML experiment trail |
-| Knowledge system | Notes, maps, templates, or learning infrastructure |
-
-### Selected Case Studies
-
-| Case study | Label | Why it is interesting | Evidence / visual entry point |
-| --- | --- | --- | --- |
-| **WhyThisMove / IronWall Chess Engine** | Production build, Private codebase | Turns chess-engine output into human-facing coaching, practice loops, and mistake explanations. | AI coach, opening trainer, blunder practice, game review, worker services, deployment configs; screenshots and case-study notes are tracked with the private product materials |
-| **Citely** | Production build, Private codebase | Treats citation quality as a product problem, not just a search box. | PDF ingestion, citation matching, RAG chat, academic APIs, credits, auth, deployment; screenshot/case-study material is being curated with the portfolio work |
-| **Zhimian AI Interview Platform** | Production build, Private codebase | Combines real-time interview practice with admin, enterprise, and review workflows. | WebSocket sessions, emotion analysis, RAG chatbot, RBAC, payment-proof review, smoke tests; visual proof lives with the product deployment notes |
-| **Drew Rangers Tracker Pro** | Production build, Public repo | Shows product engineering outside the usual AI demo lane. | [Basketball-Team-Manager](https://github.com/hanxiangli666/Basketball-Team-Manager) with game clock, rotations, injuries, roster sync, PDF reports, Cloudflare D1, and tests |
-| **Heima Boxuegu Flink Warehouse** | Course system, Data engineering | Makes data engineering concrete through a complete real-time warehouse thread. | Flink CDC, Hudi layers, Doris serving, Dinky notes, BI metrics, performance notes, and a portfolio evidence checklist |
-
-### AI Products And Full-Stack Builds
-
-| No. | Project | Problem | What I built | Stack |
-| --- | --- | --- | --- | --- |
-| 1 | **WhyThisMove / IronWall Chess Engine** | Chess tools often show the engine move without explaining the human mistake. | Built an AI chess coach with engine analysis, Maia-style human move modeling, opening trainer, blunder practice, game review, LLM explanations, battle mode, browser extension pieces, worker services, and production deployment configs. | React, TypeScript, Vite, Mantine, Tailwind, Zustand, TanStack Query, FastAPI, PostgreSQL, ClickHouse, Stockfish, Maia, OpenRouter, Docker Compose, Caddy, Playwright, Vitest |
-| 2 | **Citely** | Students and researchers need to verify sources, detect weak citations, and find stronger papers. | Built a citation intelligence product with public search tools, logged-in workspaces, PDF ingestion, citation matching, RAG chat, credit usage, academic API integrations, and deployment configs. | Vue 3, TypeScript, FastAPI, Supabase Auth/Postgres/Storage/RLS/pgvector, OpenAI Responses API, Semantic Scholar, OpenAlex, Crossref, PubMed, arXiv, PyMuPDF, Stripe, Netlify, Render, pytest |
-| 3 | **Zhimian AI Interview Platform** | Interview learners need realistic practice, structured feedback, and enterprise/admin workflows. | Built backend and product flows for WebSocket interview sessions, emotion analysis, RAG site chatbot, RBAC admin console, payment-proof review, enterprise verification, question bank, community operations, worker deployment, and smoke tests. | FastAPI, Python, SQLAlchemy, Alembic, PostgreSQL, Redis, WebSocket, React/TypeScript frontend, RAG, RBAC, Docker Compose, nginx, systemd |
-| 4 | **Project Helper** | Developers need faster onboarding into unfamiliar repositories without exposing private code unnecessarily. | Built a repository analysis assistant that shallow-clones repos, streams progress, summarizes code structure, renders Markdown/HTML reports, supports Mermaid diagrams, and enables safe file/search Q&A. | FastAPI, Python, Vue 3, TypeScript, Vite, SQLite/Supabase, SSE, Markdown export, Mermaid, Netlify, Render |
-| 5 | **AI Knowledge Base** | Teams need secure document ingestion, semantic search, and retrieval-backed answers. | Built a Spring Boot + React knowledge-base system with document ingestion, query UI, vector database initialization, security docs, benchmarking scripts, Docker test stacks, and frontend auth/context components. | Java, Spring Boot, Maven, React, Vite, PostgreSQL/pgvector-style SQL, Docker Compose, YAML config, benchmark.py |
-| 6 | **HR Assistant Spring AI RAG** | HR workflows need document-grounded answers instead of generic chatbot output. | Built a Spring AI RAG assistant with compose-based infrastructure, application config, Java controllers/services, and Maven project structure. | Java, Spring Boot, Spring AI, Maven, Docker Compose, application.properties |
-| 7 | **Spring AI Document Ingestion RAG** | RAG systems need repeatable document ingestion before answer generation is useful. | Built a Spring Boot document-ingestion RAG service with compose infra, SQL setup, prompt template resources, Java ingestion/query code, and YAML configuration. | Java, Spring Boot, Spring AI, Maven, Docker Compose, SQL, prompt templates |
-| 8 | **Spring Boot AI Resume Analyzer** | Resume review needs structured extraction and AI feedback across frontend and backend. | Built a resume-analysis application with Spring backend, TypeScript/React frontend, SQL initialization, Docker deployment configs, and changelog/build scripts. | Java, Spring Boot, TypeScript, React/TSX, CSS, SQL, Docker Compose, Maven |
-| 9 | **Berkshire Chatbot** | Users need a grounded chatbot around Berkshire-style documents and company material. | Built a RAG chatbot with Spring backend services/controllers/exceptions, frontend chat window, embeddable UI button, and service tests. | Java, Spring Boot, Maven, Next.js, JavaScript, CSS, application.properties, JUnit |
-| 10 | **Gen Mentor** | Learners need guided generation workflows and mentoring-style AI interactions. | Built a Python-based mentor prototype with backend API schemas, main service, frontend requirements, shell scripts, JSON configs, and deployment-oriented structure. | Python, FastAPI-style backend, JSON schemas, shell scripts, CSS, YAML |
-| 11 | **MiroFish** | Chess/analysis workflows need a full-stack app with backend processing and frontend interaction. | Built a Dockerized full-stack application with Python backend, Vue frontend, API code, environment examples, and deployment packaging. | Python, Vue, JavaScript, Docker, docker-compose, pyproject, requirements.txt |
-| 12 | **Nocturne AI** | AI learning experiments need runnable examples for prompts, memory, RAG, agents, and data analysis. | Built a collection of LangChain/RAG/Streamlit experiments, an Omni AI learning assistant, translation tools, token/creativity tests, agent calculators, CSV analytics outputs, and chart artifacts. | Python, LangChain, FAISS, Streamlit, sentence-transformers, CSV analytics, matplotlib-style artifacts |
-| 13 | **Drew Rangers Tracker Pro** | Basketball staff need practice, roster, injury, and game-day tools without spreadsheet friction. | Built a production basketball operations app with practice stats, game clock, rotation tracking, injuries, admin roster review, PDF practice reports, Cloudflare D1 persistence, roster scraping/sync, and Node tests. | Vue 3, Vite, Tailwind, Cloudflare Pages Functions, Cloudflare D1, Worker Cron, SQL migrations, Node test runner, PDF generation |
-| 14 | **Professional Portfolio Website** | A profile needs to show concrete work instead of a generic landing page. | Built a Next.js portfolio with curated case-study data, GitHub repo sync, writing pages, project screenshots, metadata, and professional layout. | Next.js, React, TypeScript, Tailwind CSS, GitHub REST API, Markdown, KaTeX |
-| 15 | **Smartyihui Business Site** | A small business needs a clear, deployable web presence for services and contact conversion. | Built a Vue/Vite business website for Guangzhou Yihui Intelligent Technology with service sections, responsive layout, and deployment-ready static assets. | Vue, Vite, JavaScript, CSS, HTML |
-| 16 | **Simple Todo List** | A CRUD app needs authentication, task management, and clean frontend/backend separation. | Built a Dockerized todo system with Spring backend, Vue frontend, SQL setup, user/task modules, API debugging notes, and deployment docs. | Java, Spring Boot, Vue, JavaScript, Docker Compose, SQL, Maven |
-| 17 | **Medical KBQA Knowledge Graph** | Medical QA needs structured domain knowledge and reliable entity extraction. | Built a medical knowledge-graph QA pipeline with NER, intent recognition, semantic parsing, Cypher templates, Neo4j integration, Flask/Streamlit UI pieces, and learning plans. | Python, BERT, BiLSTM-CRF, Neo4j, Cypher, Flask, Streamlit, medical NER |
-| 18 | **GitHub Profile System** | A profile README needs to summarize many public/private technical tracks without leaking private code. | Built and maintain this profile README as a portfolio index with project mapping, contact links, WeChat screenshot link, and public repository entry points. | Markdown, GitHub profile README, repository taxonomy |
-
-### Java / Spring / Heima Enterprise Systems
-
-| No. | Project | Problem | What I built | Stack |
-| --- | --- | --- | --- | --- |
-| 19 | **Canzhanggui Restaurant Management Platform** | Restaurant operations need distributed service modules for orders, users, and admin workflows. | Practiced a Dubbo-based restaurant system with producer/consumer modules, shared interfaces, Dubbo admin materials, Maven multi-module structure, Vue/admin assets, SQL, service implementation code, and a 23-card self-study route. | Java, Spring Boot, Dubbo, Maven, Vue, MyBatis/XML, SQL, application.yml, Markdown |
-| 20 | **RuoYi Dikede Enterprise Admin Extension** | Enterprise systems need role/user/menu management and a maintainable admin foundation. | Practiced RuoYi-Vue project setup, module structure, admin backend configuration, permissions foundation, packaging scripts, and learning notes. | Java, Spring Boot, RuoYi-Vue, Maven, MyBatis, Vue, YAML |
-| 21 | **Tianji Xue Tang AI Education Platform** | Online education platforms need course, user, data, and AI assistant services. | Practiced the Tianji course platform with microservice modules, Spring AI chat/MCP demos, user/course/data services, AIGC module configs, and SQL/YAML setup. | Java, Spring Boot, Spring AI, MCP, Maven, MyBatis, YAML, SQL, microservices |
-| 22 | **Tianji Xue Tang Course Practice 2** | Learning platforms need course schedule, lesson progress, and service evolution exercises. | Practiced course schedule data models, lesson progress enums, SQL scripts, init scripts, JMeter/Lua materials, and staged course notes. | Java, Spring Boot, SQL, shell, JMeter, Lua |
-| 23 | **Yunlan Daojia Home Services Platform** | Home-service platforms need customer, order, trade, market, and mini-program workflows. | Practiced a large JZO2O microservice system with customer/order/trade/public modules, sharding SQL, Nacos/XXL-job scripts, admin Vue3 app, uni-app mini-program utilities, and service APIs. | Java, Spring Boot, Spring Cloud, Maven, Vue 3, TypeScript, uni-app, SQL, Nacos, XXL-Job, sharding |
-| 24 | **Zhongzhou Elder Care IoT System** | Elder-care systems need resident management, roles, WeChat login, device monitoring, alarms, and deployment. | Practiced modules for RBAC, WeChat login, Redis caching, IoT product/device management, data display, WebSocket alarms, Redis cluster deployment, and Java service code. | Java, Spring Boot, MyBatis, Redis, WebSocket, JWT, WeChat login, Maven, SQL, YAML |
-| 25 | **Shenling Logistics Interface System** | Logistics platforms require separate workflows for users, drivers, couriers, and administrators. | Organized interface docs, test data, SQL backups, and project notes for multi-role logistics APIs. | Java/Spring-oriented API design, SQL, Markdown API docs, XMind |
-| 26 | **Warehouse Management System** | Warehouses need wave strategy, inventory/order logic, express integration, locking/cache config, and extensible business rules. | Practiced WMS source modules with strategy pattern examples, wave strategy code, SF Express SDK integration, Jeecg core configs, Redisson/Spring Cache notes, Vue/TS files, and OpenAPI material. | Java, Spring Boot, Vue, TypeScript, Redisson, Spring Cache, Strategy pattern, OpenAPI, JSON |
-| 27 | **Miaosha Seckill System** | Flash-sale systems need high-concurrency order flow, stock protection, and cached request handling. | Practiced seckill architecture materials, SQL scripts, frontend assets, JavaScript pages, and system architecture notes. | Java/Spring concepts, Redis, SQL, JavaScript, high-concurrency design |
-| 28 | **Zhiniu Gu Stock Trading System** | Stock platforms need quote data, OAuth2, order handling, position cost calculation, scheduling, and sharding. | Studied and organized stock-trading modules covering OAuth2/JWT, Sentinel, gRPC, Spring Data REST, Querydsl, Sharding-JDBC, scheduled tasks, FIX/FAST protocol notes, and order/position flows. | Java, Spring Boot, OAuth2, JWT, Sentinel, gRPC, Sharding-JDBC, Spring Data, Querydsl, Scheduling, FIX/FAST |
-| 29 | **Star Graph AIGC / ComfyUI Integration** | Java AI apps need multimodal generation, workflow APIs, and image-model integration. | Practiced ComfyUI API wrapper code, DTO/model classes, multimodal Base64 test data, ECharts JSON, and AIGC learning route materials. | Java, ComfyUI API, DTOs, JSON, ECharts, AIGC workflows |
-| 30 | **Java-AI Course Archive** | Java AI learning across multiple enterprise cases needs one index. | Organized notes and materials for RuoYi Dikede, Tianji Xue Tang, Dubbo Canzhanggui, Zhongzhou elder care, Yunlan Daojia, AIGC, and Java AI topics. | Java, Spring Boot, Spring AI, Dubbo, enterprise-course notes |
-| 31 | **Heima Americanas Lean Data Warehouse** | Lean management needs integrated operational data and BI-ready warehouse layers. | Studied project setup, SeaTunnel, StarRocks, warehouse modeling, PowerBI, SQL/data files, and analysis workflow materials. | SeaTunnel, StarRocks, PowerBI, SQL, CSV/XLSX, data warehouse modeling |
-| 32 | **Heima Vehicle Networking Platform** | Connected-vehicle systems need telemetry collection, web services, streaming analysis, and reporting. | Practiced VehicleNetworkWeb, SourceDataProcess, StreamingAnalysis modules, day-by-day Java code, SQL scripts, frontend assets, and report materials. | Java, Spring Boot, Maven, streaming analysis, SQL, HTML/CSS/JS, SVG, XML |
-| 33 | **Heima Fengniao DMP / Kudu Practice** | Ad/data platforms need fast analytical storage and data-management platform workflows. | Practiced Kudu and DMP modules, Scala code, Kudu Java clients, Zeppelin notes, configs, and project examples. | Scala, Java, Kudu, Zeppelin, Maven, HTML/AsciiDoc, config files |
-| 34 | **Heima Fuhua Insurance Big Data** | Insurance analytics needs HDFS/Hive-style processing, policy calculations, and data scripts. | Studied insurance big-data notes, shell scripts, SQL scripts, Python utilities, config/properties files, and calculation templates. | Shell, SQL, Python, HDFS/Hive concepts, properties config, Excel models |
-| 35 | **Heima Data Middle Platform** | Data platforms need metadata governance, quality checks, and data integration foundations. | Studied Griffin data-quality configs, Atlas metadata/governance materials, Java/Scala/JS source trees, Docker compose examples, and platform notes. | Apache Griffin, Apache Atlas, Java, Scala, JavaScript, TypeScript, XML, Docker Compose |
-| 36 | **Heima Unified Data Warehouse** | E-commerce analytics needs CDC ingestion, analytical storage, and warehouse layers. | Studied Flink CDC, StarRocks, MySQL incremental scripts, shell data generators, and unified warehouse lecture materials. | Flink CDC, StarRocks, MySQL, shell scripts, data warehouse modeling |
-| 37 | **Heima User Profile System** | User operations need tag systems, profile modeling, and offline/online data pipelines. | Studied user-profile notes, Python scripts, SQL models, config files, EDQL, and data-platform materials. | Python, SQL, Hive/Spark-style configs, EDQL, INI/conf files |
-| 38 | **Heima Zhixing Education** | Education products need version control, code review, database modeling, and deployment materials. | Studied online education notes, SQL scripts, PDM/PDB models, shell scripts, Git/GitLab/code-review documents, and project planning docs. | SQL, shell, Git/GitLab, database modeling, project documentation |
-| 39 | **Heima Boxuegu Flink Real-Time Education Data Warehouse** | Online education analytics needs low-latency ingestion from business databases into warehouse layers and BI metrics. | Built a documented end-to-end project thread for a Boxuegu-style education warehouse: MySQL business tables to Flink CDC, Hudi ODS/DWD/DWS layers, Doris serving, BI dashboard metrics, Dinky deployment notes, performance tuning notes, and a portfolio evidence checklist. | Flink CDC, Flink SQL, Hudi, Doris, Hive Catalog/Metastore, Dinky, MySQL, BI dashboards, data warehouse modeling |
-| 40 | **Heima Qianmian E-commerce User Profile System** | E-commerce operations need tag-based user profiling, offline label jobs, and behavior-log analysis. | Imported real project materials for a Qianmian e-commerce user-profile system, including Django tag dashboard code, PySpark/Spark label jobs, Elasticsearch sync notes, MySQL/Hive-style SQL, Flume/Kafka/log-processing exercises, SparkML mining labels, and a learning plan. | Python, PySpark/Spark, Django, Elasticsearch, MySQL/Hive-style SQL, Kafka/Flume, SparkML, Markdown |
-| 41 | **Heima Workflow / Activiti Practice** | Enterprise systems need process modeling, approval flows, form binding, and workflow UI integration. | Imported real workflow materials covering Activiti7, Hiss process components, BPMN practice, RuoYi integration, OA approval exercises, form/process binding, process-designer UI assets, SQL scripts, and a module-by-module learning route. | Java, Spring Boot, Activiti7, BPMN, RuoYi-Vue, Vue, TypeScript, Maven, SQL |
-### Business, Writing, And Experiments
-
-| No. | Project | Problem | What I built | Stack |
-| --- | --- | --- | --- | --- |
-| 42 | **MoneyComesToME / Shengcaiyoudao Business Exploration** | Business-learning experiments need a clear repo home before ideas become scripts, notes, or public writeups. | Connected the MoneyComesToME repository to `34_生财有术` and added a truthful project README for Shengcaiyoudao learning, monetization research, business-case notes, experiment logs, and future public summaries. Current status is a planning/index repository until concrete notes or experiments are added. | Markdown, Git, business experiments, monetization research, project planning |
-
-### Data, ML, Chess, And Modeling
-
-| No. | Project | Problem | What I built | Stack |
-| --- | --- | --- | --- | --- |
-| 43 | **Paper Replication: Battery SOH** | Battery health prediction needs reproducible modeling from EIS and capacity data. | Reproduced a battery SOH workflow with data splits, prediction curves, SHAP plots, EIS text data, and a Python reproduction script. | Python, scikit-learn/XGBoost-style ML, SHAP, EIS data, TXT datasets |
-| 44 | **Kaggle Titanic Workflow** | Kaggle practice needs repeatable data cleaning, feature engineering, validation, and submission generation. | Built Titanic notebooks/scripts, converted notebooks, scored submissions, and stored train/test/submission artifacts. | Python, pandas, scikit-learn, Jupyter, CSV |
-| 45 | **MCM / ICM Modeling Workspace** | Mathematical modeling competitions require fast modeling, visualization, and report workflows. | Organized data, MATLAB/Python scripts, notebooks, Word/PPT reports, bus route/stop datasets, and all-nighter modeling notes. | Python, MATLAB, CSV, XLSX, notebooks, modeling reports |
-| 46 | **Federated Learning Practice** | Distributed ML needs experiments around privacy, leakage, and client training. | Studied and implemented notebooks/scripts for MNIST, CNN/DNN, gradient leakage papers, local experiments, and saved models. | Python, Jupyter, TensorFlow/Keras-style `.h5`, federated learning, MNIST |
-| 47 | **ML Self-Learning Lab** | ML foundations need implementation practice across autograd, RAG, DevOps, and MCP. | Collected and implemented micrograd-style autograd, RAG demos, MCP servers, Chroma/PDF/parser demos, and ML notebooks. | Python, Jupyter, RAG, Chroma, MCP, Node, shell, CSV |
-| 48 | **RAE / Representation Autoencoder Study** | Modern generative models need representation autoencoder experiments and image packing utilities. | Studied RAE code with environment files, image packing, requirements, YAML configs, and Python modules. | Python, PyTorch-style ML, YAML, requirements.txt |
-| 49 | **Diffusion Models Class** | Diffusion models require notebook-level experiments and reproducible class materials. | Studied diffusion notebooks, hackathon DreamBooth material, Python utilities, and docs workflows. | Python, Jupyter, diffusion models, DreamBooth, YAML |
-| 50 | **RAG From Scratch** | RAG concepts need notebook-level implementation from retrieval to generation. | Studied and practiced RAG notebooks covering chunking, retrieval, routing, and generation workflow stages. | Python, Jupyter, RAG, embeddings, retrieval |
-| 51 | **LLMs From Scratch** | Understanding LLM internals requires implementing tokenization, GPT blocks, training, and finetuning. | Studied the from-scratch LLM codebase, setup, package structure, notebooks, chapter scripts, and optional Docker/SageMaker setup. | Python, PyTorch, Jupyter, tokenizer/GPT internals, Docker, SageMaker |
-| 52 | **Generative AI For Beginners** | GenAI product development requires broad practice across chat, search, image, agents, function calling, and deployment. | Studied multi-language lessons, notebooks, JS/TS/Python examples, function-calling apps, chat apps, search apps, and image-generation apps. | Python, TypeScript, JavaScript, Jupyter, GitHub Models/Azure-style GenAI examples |
-| 53 | **ChessData Pipeline** | Chess engines and analytics need large PGN datasets, filtering, SQL, and build scripts. | Organized PGN corpora, shell filters, C++/Python utilities, SQL scripts, opening data, and release files for chess-data processing. | PGN, Python, C++, shell, SQL |
-| 54 | **Chess Openings Dataset** | Opening trainers need structured ECO/name/move tables. | Organized TSV opening tables, scripts, copying/license docs, and opening data for downstream chess apps. | TSV, Python, text datasets |
-| 55 | **Nocturne AI Analytics Outputs** | AI experiments need both model demos and data-analysis deliverables. | Produced traffic/funnel/category CSV summaries and chart artifacts alongside LangChain/RAG demos. | Python, CSV, chart generation, RAG demos |
-
-### AI Agents, Code Intelligence, And Research Indexes
-
-| No. | Project | Problem | What I built | Stack |
-| --- | --- | --- | --- | --- |
-| 56 | **LangGraph Codebase Study** | Stateful agent systems need graph execution, checkpointing, persistence, and SDK structure. | Studied LangGraph libraries, checkpoint contracts, SQLite/Postgres checkpointers, CLI examples, SDK modules, and pyproject-based packages. | Python, LangGraph, checkpointing, SQLite, Postgres, pyproject, tests |
-| 57 | **AutoGen Codebase Study** | Multi-agent systems need patterns for orchestration, transparency, security, and contribution workflows. | Studied AutoGen documentation, FAQs, security docs, and agent framework design materials. | Multi-agent systems, LLM orchestration, Markdown docs |
-| 58 | **PR Agent Codebase Study** | Automated code review needs diff parsing, prompting, providers, and CI integration. | Studied PR Agent source layout, Python modules, TOML configs, Docker/action files, and review automation architecture. | Python, LLM code review, GitHub Actions, TOML, Docker |
-| 59 | **Agent4SE Paper List** | Software-engineering agents need a structured map of tasks, architectures, and literature. | Organized and studied the Agent4SE survey repository with paper taxonomy and SE task/agent architecture diagrams. | LLM agents, software engineering research, paper taxonomy |
-| 60 | **LLM Agents Papers** | Agent research evolves quickly and needs machine-readable tracking. | Built/used JSON configs, PDF download scripts, and parsing scripts for agent-paper collection. | Python, JSON, paper parsing, download automation |
-| 61 | **Awesome Code LLM** | Code LLMs span summarization, generation, repair, vulnerability detection, and benchmarks. | Studied and maintained a code-LLM reading index with benchmark diagrams and downstream task taxonomy. | Code LLM research, benchmarks, Markdown |
-| 62 | **Awesome AI LLM4Education** | LLM-for-education papers need searchable, visual, and monthly-updated organization. | Worked with paper CSVs, preprocessing scripts, generator scripts, visualization notebook, and static website assets. | Python, pandas, CSV, Jupyter, HTML/CSS/JS |
-| 63 | **Build Your Own X Study Track** | Systems understanding improves by rebuilding core tools from scratch. | Curated build-from-scratch project references and implementation ideas. | Systems programming references, Markdown |
-| 64 | **System Design Primer Study Track** | Backend interviews require scalable architecture patterns and tradeoff vocabulary. | Studied system-design notes, diagrams, scripts, and architecture materials. | System design, distributed systems, Python, Markdown |
-| 65 | **Project Ideas And Resources** | Project planning needs reusable idea lists and contribution structure. | Organized project-resource notes and contribution templates for future builds. | Markdown, project planning |
-
-### Algorithms, Foundations, Notes, And Personal Knowledge Systems
-
-| No. | Project | Problem | What I built | Stack |
-| --- | --- | --- | --- | --- |
-| 66 | **Algo Atlas** | Competitive programming needs fast access to tested templates. | Organized C++/Python algorithm templates for graph theory, strings, math, data structures, suffix arrays, DP tricks, Dijkstra, LCA, segment tree, union-find, KMP, and Tarjan. | C++, Python, algorithms, templates |
-| 67 | **Data Structures And Algorithms** | Interview and ICPC practice need multi-language coverage. | Built/organized C++, Java, Python, Go, JavaScript, HTML, LeetCode/ICPC notes, and an AI-agent exercise. | C++, Java, Python, Go, JavaScript, algorithms |
-| 68 | **Linux / LFCS Notes** | Linux administration requires command, storage, scripting, user/group, and deployment practice. | Organized LFCS notes, Linux basics, shell scripting, storage, deployment, and command materials. | Linux, shell, LFCS, Markdown |
-| 69 | **IT Foundations** | CS foundations need structured notes across cloud, databases, networking, architecture, and systems. | Organized bilingual notes for cloud providers, core cloud services, AWS/GCP demos, databases, networks, and architecture. | Cloud computing, AWS/GCP, databases, networking, Markdown |
-| 70 | **Obsidian Knowledge Base** | Long-term learning needs a searchable personal knowledge system. | Maintained a large Markdown vault with logs, notes, canvases, and AI-assistant session metadata. | Obsidian, Markdown, Excalidraw/canvas |
-| 71 | **X-Plore** | Personal growth projects need indexes for Bilibili, blog, GitHub, CSDN, and algorithm learning. | Built scripts and notes for CSDN index generation, personal website learning, Bilibili notes, and yearly summaries. | Python, Markdown, personal knowledge management |
-| 72 | **CS500 AI/LLM Coursework** | AI course projects need structured reports and lecture artifacts. | Organized AI/LLM course materials, industry-study reports, PPT/PDF lectures, and spreadsheet artifacts. | AI coursework, reports, PPT/PDF/XLSX |
-| 73 | **Excalidraw Codebase Study** | Complex frontend applications need canvas state, collaboration, packages, testing, and monorepo structure. | Studied a large TypeScript/React drawing app codebase with packages, examples, SCSS, snapshots, and Docker config. | TypeScript, React, Canvas app architecture, SCSS, monorepo |
-| 74 | **Full-Stack Java/Spring/Vue Boilerplate** | Full-stack projects need a repeatable Java backend and Vue/TypeScript frontend baseline. | Practiced boilerplate structure with backend properties, Gradle/Maven-style Java app, frontend package setup, Cypress config, and GitHub workflows. | Java, Spring Boot, Vue, TypeScript, Cypress, Gradle, GitHub Actions |
-
-## Local Repository Coverage
-
-This README was mapped from the local workspace snapshots under `work/private_repos` and `work/repos`. The exact private/local directories covered are:
-
-- Product and AI systems: `IronWall_Chess_Engine`, `citely`, `zhimian`, `Project_Helper`, `ai-knowledge-base`, `HRAssistant-SpringAI-RAG`, `springboot-ai-rag-docingest`, `spring-boot-ai-resume-analyzer`, `berkshire-chatbot`, `gen-mentor`, `MiroFish`, `Basketball-Team-Manager`, `jamesli-thegoat`, `smartyihui-web`, `simple-todo-list`, `Nocturne_AI`, `medical_kg`, `hanxiangli666`.
-- Java, Spring, Heima, and enterprise practice: `canzhanggui`, `ruoyidikede`, `tian_ji_xue_tang`, `tian_ji_xue_tang2`, `yunlandaojia`, `zhognzhou_yang_lao`, `zhiniu_gu`, `shenling_wuliu`, `-WMS`, `miaosha`, `star_graph`, `Java-AI-`, `Heima_Americanas`, `Heima_chelianwang`, `Heima_Fengniao`, `Heima_Flink`, `Heima_Fuhuabaoxian`, `Heima_Qianminadianshang`, `Heima_shujuzhongtai`, `Heima_Tongyishucang`, `Heima_Workflow`, `Heima_yonghuhuaxiang`, `Heima_zhixingjiaoyu`.
-- Business and writing experiments: `MoneyComesToME`.
-- Data, ML, modeling, and chess: `Replication-of-Papers`, `Kaggle`, `MCM-ICM`, `Federated-Learning`, `ML-SelfLearning`, `RAE`, `diffusion-models-class`, `rag-from-scratch`, `LLMs-from-scratch`, `generative-ai-for-beginners`, `ChessData`, `chess-openings`.
-- AI agents, code intelligence, and research indexes: `langgraph`, `autogen`, `pr-agent`, `Agent4SE-Paper-List`, `LLM-Agents-Papers`, `Awesome-Code-LLM`, `awesome-ai-llm4education`, `build-your-own-x`, `system-design-primer`, `Project-Ideas-And-Resources`, `excalidraw`.
-- Foundations and knowledge systems: `Algo-Atlas`, `Data-structure-and-Algorithms`, `Linux`, `IT_Foundatitions`, `Obsidian_KnowledgeBase`, `X-Plore`, `CS500`, `fullstack-boilerplate-java-springboot-vue-typescript`.
-
-## Public Repositories To Start With
-
-- [Basketball-Team-Manager](https://github.com/hanxiangli666/Basketball-Team-Manager): Cloudflare/Vue basketball operations system with D1, roster sync, practice/game workflows, injuries, PDF reports, and tests.
-- [Nocturne_AI](https://github.com/hanxiangli666/Nocturne_AI): LangChain, FAISS, Streamlit, RAG, prompt/memory/agent experiments, and data-analysis outputs.
-- [Replication-of-Papers](https://github.com/hanxiangli666/Replication-of-Papers): battery SOH replication with EIS features, model evaluation, prediction curves, and SHAP outputs.
-- [Kaggle](https://github.com/hanxiangli666/Kaggle): Titanic data-cleaning, feature-engineering, notebook, and submission workflow.
-- [Data-structure-and-Algorithms](https://github.com/hanxiangli666/Data-structure-and-Algorithms): multi-language algorithms, ICPC, LeetCode, and CS practice.
-- [smartyihui-web](https://github.com/hanxiangli666/smartyihui-web): Vue/Vite business website delivery.
-
-## Technical Stack Map
-
-**AI / LLM / RAG:** Spring AI, LangChain, FAISS, RAG, OpenAI-compatible APIs, OpenAI Responses API, prompt templates, document ingestion, citation matching, repo analysis, AI coaching, interview practice, resume analysis, agent frameworks.
-
-**Backend:** Java, Spring Boot, FastAPI, Flask, SQLAlchemy, Alembic, Maven, MyBatis/MyBatis-Plus, Dubbo, RuoYi, REST APIs, WebSocket, RBAC, JWT/OAuth2, Redis, Redisson, scheduling, service workers.
-
-**Frontend:** React, Next.js, Vue 3, Vite, TypeScript, JavaScript, Tailwind, Mantine, Zustand, TanStack Query, uni-app, ECharts, CSS/SCSS.
-
-**Data / Infrastructure:** PostgreSQL, pgvector, Supabase, Cloudflare D1, MySQL, SQLite, ClickHouse, Redis, Nacos, XXL-Job, Docker Compose, Caddy, nginx, Netlify, Render, Cloudflare Pages, StarRocks, SeaTunnel, Kudu, Hudi, Doris, Hive Catalog, Dinky, Atlas, Griffin, Flink CDC, Flink SQL.
-
-**ML / Research:** scikit-learn, XGBoost-style modeling, SHAP, battery SOH prediction, medical NER, BERT, BiLSTM-CRF, Neo4j/Cypher, federated learning, diffusion models, RAE, LLM-from-scratch practice, Kaggle, MCM/ICM modeling.
-
-**Foundations:** C++, Java, Python, Go, JavaScript, algorithms, Linux/LFCS, cloud computing, databases, networking, system design, codebase reading.
-
-## Current Direction
-
-I am building a long-term portfolio around applied AI and production software: systems that combine model reasoning, real user workflows, backend reliability, deployment, and readable technical documentation.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:06B6D4,45:2563EB,100:0F172A&section=footer" alt="" width="100%" />
+</p>
