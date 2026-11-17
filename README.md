@@ -54,7 +54,7 @@ I build AI products end to end: the model pipeline, the back end, the client, an
       <p>The substitution and rotation app a college basketball coaching staff has used in games since March 2026. Game clock, rotations, injuries, and PDF practice reports.</p>
       <p>
         <a href="https://drew-mbb.com"><img src="https://img.shields.io/badge/drew--mbb.com-live-2EA44F?style=flat-square" alt="live site" /></a>
-        <a href="https://github.com/hanxiangli666/Basketball-Team-Manager"><img src="https://img.shields.io/badge/code-public-2563EB?style=flat-square&logo=github" alt="public code" /></a>
+        <img src="https://img.shields.io/badge/repo-private-6E7781?style=flat-square&logo=github" alt="private repo" />
       </p>
     </td>
   </tr>
