@@ -40,7 +40,7 @@ I build AI products end to end: the model pipeline, the back end, the client, an
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://zhimian.site"><img src="assets/zhimian.jpg" alt="Zhimian panel interview" /></a>
+      <a href="https://zhimian.site"><img src="assets/zhimian.jpg" alt="Zhimian home page" /></a>
       <h3>Zhimian</h3>
       <p>An AI mock-interview platform: real-time interview sessions over WebSocket, a retrieval-backed help assistant, and an admin console.</p>
       <p>
@@ -95,15 +95,4 @@ Building something nearby, or want a second pair of eyes on an idea? Email me.
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hanxiangli666&hide_border=true&area=true&bg_color=0D1117&color=2F81F7&line=2F81F7&point=E6EDF3&area_color=2F81F7&title_color=E6EDF3" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanxiangli666&hide_border=true&area=true&bg_color=FFFFFF&color=2563EB&line=2563EB&point=0F172A&area_color=2563EB&title_color=0F172A" alt="Contribution graph" width="100%" />
   </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hanxiangli666/hanxiangli666/output/github-contribution-grid-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/hanxiangli666/hanxiangli666/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:06B6D4,45:2563EB,100:0F172A&section=footer" alt="" width="100%" />
 </p>
